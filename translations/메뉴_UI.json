@@ -1,0 +1,4992 @@
+[
+  {
+    "id": 1258,
+    "key": "1274d074b34f427a8e8e402e87f0f04a_Credits_Title",
+    "context": "",
+    "field": "",
+    "detail": "",
+    "ru": "Пролог:<br> Прибытие",
+    "en": "Prologue:<br>Arrival",
+    "ko": "프롤로그:<br>도착"
+  },
+  {
+    "id": 1259,
+    "key": "1274d074b34f427a8e8e402e87f0f04a_PersonalizationWindow.GroupName.Head",
+    "context": "",
+    "field": "",
+    "detail": "",
+    "ru": "Голова",
+    "en": "Head",
+    "ko": "머리"
+  },
+  {
+    "id": 1260,
+    "key": "1274d074b34f427a8e8e402e87f0f04a_Text_HintLoadingScreen",
+    "context": "",
+    "field": "",
+    "detail": "",
+    "ru": "«Если это неправильно, не делай этого. Если это неправда, не говори этого.» <color=yellow>— Марк Аврелий</color>",
+    "en": "\"If it's wrong, don't do it. If it's not true, don't say it.\" <color=yellow>— Marcus Aurelius</color>",
+    "ko": "“옳지 못한 일이라면 하지 마라. 사실이 아니라면 말하지 마라.” <color=yellow>— 마르쿠스 아우렐리우스</color>"
+  },
+  {
+    "id": 1261,
+    "key": "1274d074b34f427a8e8e402e87f0f04a_UnkownGamepadMetPopupDescription_TextKey",
+    "context": "",
+    "field": "",
+    "detail": "",
+    "ru": "Ваш геймпад не опознан нашей системой. Пожалуйста, выберите одну из следующих геймпад-схем (вы всегда можете изменить её позже из меню паузы).",
+    "en": "Your gamepad is not recognized by our system. Please select one of the following gamepad schemes (you can always change it later from the pause menu).",
+    "ko": "게임패드를 인식하지 못했습니다. 아래에서 조작 배치를 선택해 주십시오 (나중에 일시 정지 메뉴에서 변경할 수 있습니다)."
+  },
+  {
+    "id": 1262,
+    "key": "1274d074b34f427a8e8e402e87f0f04a_settings_back",
+    "context": "",
+    "field": "",
+    "detail": "",
+    "ru": "Назад в главное меню",
+    "en": "Back to main menu",
+    "ko": "메인 메뉴로 돌아가기"
+  },
+  {
+    "id": 22896,
+    "key": "MainSquare_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MainSquare_MapLocation",
+    "ru": "Главная площадь",
+    "en": "Main Square",
+    "ko": "중앙 광장"
+  },
+  {
+    "id": 22897,
+    "key": "PhaseDawn",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseDawn",
+    "ru": "Рассвет",
+    "en": "Dawn",
+    "ko": "새벽녘"
+  },
+  {
+    "id": 22898,
+    "key": "LaunchMissionKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LaunchMissionKey",
+    "ru": "Отправиться",
+    "en": "Go to",
+    "ko": "이동하기"
+  },
+  {
+    "id": 22899,
+    "key": "Hideout_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Hideout_MapLocation",
+    "ru": "Убежище",
+    "en": "Shelter",
+    "ko": "은신처"
+  },
+  {
+    "id": 22900,
+    "key": "Chancellery_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Chancellery_MapLocation",
+    "ru": "Канцелярия",
+    "en": "Chancellery",
+    "ko": "관청"
+  },
+  {
+    "id": 22901,
+    "key": "Hotel_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Hotel_MapLocation",
+    "ru": "Отель",
+    "en": "Hotel",
+    "ko": "호텔"
+  },
+  {
+    "id": 22902,
+    "key": "Pharmacy_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Pharmacy_MapLocation",
+    "ru": "Аптека",
+    "en": "Pharmacy",
+    "ko": "약국"
+  },
+  {
+    "id": 22903,
+    "key": "Tribunal_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Tribunal_MapLocation",
+    "ru": "Суд",
+    "en": "Court",
+    "ko": "법정"
+  },
+  {
+    "id": 22904,
+    "key": "Academy_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Academy_MapLocation",
+    "ru": "Академия",
+    "en": "Academy",
+    "ko": "아카데미"
+  },
+  {
+    "id": 22905,
+    "key": "BoardingSchool_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "BoardingSchool_MapLocation",
+    "ru": "Интернат",
+    "en": "boarding school",
+    "ko": "기숙학교"
+  },
+  {
+    "id": 22906,
+    "key": "Cabaret_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Cabaret_MapLocation",
+    "ru": "Кабаре",
+    "en": "Cabaret",
+    "ko": "카바레"
+  },
+  {
+    "id": 22907,
+    "key": "Cafe_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Cafe_MapLocation",
+    "ru": "Кафе",
+    "en": "Cafe",
+    "ko": "카페"
+  },
+  {
+    "id": 22908,
+    "key": "Dorm_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Dorm_MapLocation",
+    "ru": "Общежитие",
+    "en": "Dormitory",
+    "ko": "기숙사"
+  },
+  {
+    "id": 22909,
+    "key": "Factory_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Factory_MapLocation",
+    "ru": "Фабрика",
+    "en": "Factory",
+    "ko": "공장"
+  },
+  {
+    "id": 22910,
+    "key": "FashionHouse_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "FashionHouse_MapLocation",
+    "ru": "Модный дом",
+    "en": "Fashion house",
+    "ko": "패션 하우스"
+  },
+  {
+    "id": 22911,
+    "key": "Fortress_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Fortress_MapLocation",
+    "ru": "Крепость Дозора",
+    "en": "Watch Fortress",
+    "ko": "감시 요새"
+  },
+  {
+    "id": 22912,
+    "key": "Hospital_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Hospital_MapLocation",
+    "ru": "Госпиталь",
+    "en": "Hospital",
+    "ko": "병원"
+  },
+  {
+    "id": 22913,
+    "key": "Library_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Library_MapLocation",
+    "ru": "Библиотека",
+    "en": "Library",
+    "ko": "도서관"
+  },
+  {
+    "id": 22914,
+    "key": "Monument_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Monument_MapLocation",
+    "ru": "Монумент",
+    "en": "Monument",
+    "ko": "기념비"
+  },
+  {
+    "id": 22915,
+    "key": "RailwayStation_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "RailwayStation_MapLocation",
+    "ru": "Вокзал",
+    "en": "Railway station",
+    "ko": "기차역"
+  },
+  {
+    "id": 22916,
+    "key": "Restaurant_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Restaurant_MapLocation",
+    "ru": "Ресторан «Золотой Лев»",
+    "en": "Restaurant \"Golden Lion\"",
+    "ko": "‘황금 사자’ 식당"
+  },
+  {
+    "id": 22917,
+    "key": "TraumPalace_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TraumPalace_MapLocation",
+    "ru": "Поместье Траум",
+    "en": "Traum Estate",
+    "ko": "트라움 영지"
+  },
+  {
+    "id": 22918,
+    "key": "Sewers_MapLocation",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Sewers_MapLocation",
+    "ru": "Канализация",
+    "en": "Sewerage",
+    "ko": "하수도"
+  },
+  {
+    "id": 22919,
+    "key": "TimeDay",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TimeDay",
+    "ru": "День",
+    "en": "Day",
+    "ko": "낮"
+  },
+  {
+    "id": 22920,
+    "key": "MissionDetailsPopupMissionHeader",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionDetailsPopupMissionHeader",
+    "ru": "<color=yellow>Эпизод:</color>",
+    "en": "<color=yellow>Episode:</color>",
+    "ko": "<color=yellow>에피소드:</color>"
+  },
+  {
+    "id": 22921,
+    "key": "PlotsSidePanel_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotsSidePanel_Title",
+    "ru": "Цели",
+    "en": "Goals",
+    "ko": "목표"
+  },
+  {
+    "id": 22922,
+    "key": "MoreActions",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MoreActions",
+    "ru": "Все действия...",
+    "en": "All actions...",
+    "ko": "모든 행동 보기…"
+  },
+  {
+    "id": 22923,
+    "key": "SimpleTooltip_NoMoreActions",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SimpleTooltip_NoMoreActions",
+    "ru": "Нет доступных действий",
+    "en": "No actions available",
+    "ko": "가능한 행동 없음"
+  },
+  {
+    "id": 22924,
+    "key": "PhaseMorning",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseMorning",
+    "ru": "Утро",
+    "en": "Morning",
+    "ko": "아침"
+  },
+  {
+    "id": 22925,
+    "key": "MissionResult_Title_UIText",
+    "context": "UI Localization File",
+    "field": "MissionResultPopupFacade",
+    "detail": "MissionResult_Title_UIText",
+    "ru": "Результаты задания",
+    "en": "Task results",
+    "ko": "임무 결과"
+  },
+  {
+    "id": 22926,
+    "key": "FinishButton_Text_UIText",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "FinishButton_Text_UIText",
+    "ru": "Завершить",
+    "en": "Finish",
+    "ko": "마치기"
+  },
+  {
+    "id": 22927,
+    "key": "NewItemNotification_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NewItemNotification_Title",
+    "ru": "Получен предмет",
+    "en": "Item received",
+    "ko": "아이템 획득"
+  },
+  {
+    "id": 22928,
+    "key": "PhaseDaytime",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseDaytime",
+    "ru": "День",
+    "en": "Day",
+    "ko": "낮"
+  },
+  {
+    "id": 22929,
+    "key": "PhaseEvening",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseEvening",
+    "ru": "Вечер",
+    "en": "Evening",
+    "ko": "저녁"
+  },
+  {
+    "id": 22930,
+    "key": "PhaseDusk",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseDusk",
+    "ru": "Сумерки",
+    "en": "Twilight",
+    "ko": "땅거미"
+  },
+  {
+    "id": 22931,
+    "key": "PhaseNight",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseNight",
+    "ru": "Закат",
+    "en": "Sunset",
+    "ko": "해질녘"
+  },
+  {
+    "id": 22932,
+    "key": "NoMissionsAvailableKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NoMissionsAvailableKey",
+    "ru": "Нет доступных заданий",
+    "en": "There are no available tasks",
+    "ko": "수행할 수 있는 임무가 없습니다"
+  },
+  {
+    "id": 22933,
+    "key": "PlotsWindow_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotsWindow_Title",
+    "ru": "Цели",
+    "en": "Goals",
+    "ko": "목표"
+  },
+  {
+    "id": 22934,
+    "key": "PlotsWindow_ActiveButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotsWindow_ActiveButton",
+    "ru": "Текущие",
+    "en": "Current",
+    "ko": "진행 중"
+  },
+  {
+    "id": 22935,
+    "key": "PlotsWindow_CompletedButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotsWindow_CompletedButton",
+    "ru": "Выполненные",
+    "en": "Completed",
+    "ko": "완료됨"
+  },
+  {
+    "id": 22936,
+    "key": "PlotsWindow_FailedButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotsWindow_FailedButton",
+    "ru": "Проваленные",
+    "en": "Failed",
+    "ko": "실패"
+  },
+  {
+    "id": 22937,
+    "key": "EntityInventoryContentPopup_TakeAll",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "EntityInventoryContentPopup_TakeAll",
+    "ru": "Взять все",
+    "en": "Take All",
+    "ko": "다 챙기기"
+  },
+  {
+    "id": 22938,
+    "key": "EntityInventoryContentPopup_Close",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "EntityInventoryContentPopup_Close",
+    "ru": "Закрыть",
+    "en": "Close",
+    "ko": "닫기"
+  },
+  {
+    "id": 22939,
+    "key": "InactiveMissionKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "InactiveMissionKey",
+    "ru": "Недоступно",
+    "en": "Unavailable",
+    "ko": "사용 불가능"
+  },
+  {
+    "id": 22940,
+    "key": "PersonalizationWindow.GroupName.Head",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Head",
+    "ru": "Лицо",
+    "en": "Face",
+    "ko": "얼굴"
+  },
+  {
+    "id": 22941,
+    "key": "PersonalizationWindow.GroupName.Hair",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Hair",
+    "ru": "Волосы",
+    "en": "Hair",
+    "ko": "머리카락"
+  },
+  {
+    "id": 22942,
+    "key": "PersonalizationWindow.GroupName.FaceHair",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.FaceHair",
+    "ru": "Усы и борода",
+    "en": "Mustache and Beard",
+    "ko": "콧수염과 턱수염"
+  },
+  {
+    "id": 22943,
+    "key": "PersonalizationWindow.GroupName.Top",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Top",
+    "ru": "Верх",
+    "en": "Top",
+    "ko": "상의"
+  },
+  {
+    "id": 22944,
+    "key": "PersonalizationWindow.GroupName.Bottom",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Bottom",
+    "ru": "Низ",
+    "en": "Bottom",
+    "ko": "하의"
+  },
+  {
+    "id": 22945,
+    "key": "PersonalizationWindow.GroupName.Gloves",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Gloves",
+    "ru": "Руки",
+    "en": "Hands",
+    "ko": "손"
+  },
+  {
+    "id": 22946,
+    "key": "PersonalizationWindow.GroupName.Neck",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Neck",
+    "ru": "Шея",
+    "en": "Neck",
+    "ko": "목"
+  },
+  {
+    "id": 22947,
+    "key": "PersonalizationWindow.GroupName.Mask",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Mask",
+    "ru": "Маска",
+    "en": "Mask",
+    "ko": "가면"
+  },
+  {
+    "id": 22948,
+    "key": "StakeStatus_Complete",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "StakeStatus_Complete",
+    "ru": "Получено",
+    "en": "Gained",
+    "ko": "획득"
+  },
+  {
+    "id": 22949,
+    "key": "OR_Text",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "OR_Text",
+    "ru": "или",
+    "en": "or",
+    "ko": "또는"
+  },
+  {
+    "id": 22950,
+    "key": "PlotStatus_Active",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotStatus_Active",
+    "ru": "Новая цель",
+    "en": "New goal",
+    "ko": "새로운 목표"
+  },
+  {
+    "id": 22951,
+    "key": "PlotPointStatus_Complete",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotPointStatus_Complete",
+    "ru": "Выполнено",
+    "en": "Completed",
+    "ko": "완료됨"
+  },
+  {
+    "id": 22952,
+    "key": "PlotPointStatus_Active",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotPointStatus_Active",
+    "ru": "Новая цель",
+    "en": "New goal",
+    "ko": "새로운 목표"
+  },
+  {
+    "id": 22953,
+    "key": "PhaseConditionPhase",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseConditionPhase",
+    "ru": "Время суток",
+    "en": "Time of Day",
+    "ko": "시간대"
+  },
+  {
+    "id": 22954,
+    "key": "PlotStatus_Complete",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotStatus_Complete",
+    "ru": "Выполнено!",
+    "en": "Done!",
+    "ko": "완료되었습니다!"
+  },
+  {
+    "id": 22955,
+    "key": "Language",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Language",
+    "ru": "Язык",
+    "en": "Language",
+    "ko": "언어"
+  },
+  {
+    "id": 22956,
+    "key": "StartGame",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "StartGame",
+    "ru": "Начать",
+    "en": "Start",
+    "ko": "시작"
+  },
+  {
+    "id": 22957,
+    "key": "QuitGame",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "QuitGame",
+    "ru": "Выйти из игры",
+    "en": "Quit game",
+    "ko": "게임 종료"
+  },
+  {
+    "id": 22958,
+    "key": "LoadingProgressKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadingProgressKey",
+    "ru": "Загрузка....",
+    "en": "Loading....",
+    "ko": "로딩 중…"
+  },
+  {
+    "id": 22959,
+    "key": "LoadingFinishProgressKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadingFinishProgressKey",
+    "ru": "Нажмите любую кнопку",
+    "en": "Press any button",
+    "ko": "아무 버튼이나 누르세요"
+  },
+  {
+    "id": 22960,
+    "key": "PreparingProgressKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PreparingProgressKey",
+    "ru": "Строим город Брокен...",
+    "en": "Building the city of Brocken...",
+    "ko": "브로켄 시를 건설 중…"
+  },
+  {
+    "id": 22961,
+    "key": "Russian_MenuLocal",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Russian_MenuLocal",
+    "ru": "Русский",
+    "en": "Russian",
+    "ko": "러시아어"
+  },
+  {
+    "id": 22962,
+    "key": "English_MenuLocal",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "English_MenuLocal",
+    "ru": "Английский",
+    "en": "English",
+    "ko": "영어"
+  },
+  {
+    "id": 22963,
+    "key": "Asset_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Asset_StakeCategoryKey",
+    "ru": "Активы Заговора",
+    "en": "Conspiracy Assets",
+    "ko": "비밀결사 자산"
+  },
+  {
+    "id": 22964,
+    "key": "PlotStatus_Failed",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PlotStatus_Failed",
+    "ru": "Провалено...",
+    "en": "Failed...",
+    "ko": "실패..."
+  },
+  {
+    "id": 22965,
+    "key": "BackToGame",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "BackToGame",
+    "ru": "Назад к игре",
+    "en": "Back to game",
+    "ko": "게임으로 돌아가기"
+  },
+  {
+    "id": 22966,
+    "key": "SoundVolume",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SoundVolume",
+    "ru": "Громкость звука",
+    "en": "Sound volume",
+    "ko": "음량"
+  },
+  {
+    "id": 22967,
+    "key": "MusicVolume",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MusicVolume",
+    "ru": "Громкость музыки",
+    "en": "Music volume",
+    "ko": "음악 볼륨"
+  },
+  {
+    "id": 22968,
+    "key": "GraphicSettings",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "GraphicSettings",
+    "ru": "Графика",
+    "en": "Graphics",
+    "ko": "그래픽"
+  },
+  {
+    "id": 22969,
+    "key": "QuitMenu",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitMenu",
+    "ru": "Выйти из игры",
+    "en": "Quit Game",
+    "ko": "게임 종료"
+  },
+  {
+    "id": 22970,
+    "key": "UnlockMissionKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "UnlockMissionKey",
+    "ru": "Получить доступ",
+    "en": "Get access",
+    "ko": "접근 권한 획득"
+  },
+  {
+    "id": 22971,
+    "key": "MissionDetailsObjectives",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionDetailsObjectives",
+    "ru": "Цели",
+    "en": "Goals",
+    "ko": "목표"
+  },
+  {
+    "id": 22972,
+    "key": "MissionDetailsDescription",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionDetailsDescription",
+    "ru": "Описание",
+    "en": "Description",
+    "ko": "설명"
+  },
+  {
+    "id": 22973,
+    "key": "MissionDetailsRewards",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionDetailsRewards",
+    "ru": "Награды",
+    "en": "Rewards",
+    "ko": "보상"
+  },
+  {
+    "id": 22974,
+    "key": "TimesConditionTimes",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TimesConditionTimes",
+    "ru": "Попыток за сегодня",
+    "en": "Attempts today",
+    "ko": "오늘의 시도 횟수"
+  },
+  {
+    "id": 22975,
+    "key": "SecretClue_Description",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SecretClue_Description",
+    "ru": "Неизвестная улика",
+    "en": "Unknown Clue",
+    "ko": "미지의 단서"
+  },
+  {
+    "id": 22976,
+    "key": "Status_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Status_StakeCategoryKey",
+    "ru": "Состояние",
+    "en": "State",
+    "ko": "상태"
+  },
+  {
+    "id": 22977,
+    "key": "Boon_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Boon_StakeCategoryKey",
+    "ru": "Ресурс",
+    "en": "Resource",
+    "ko": "자원"
+  },
+  {
+    "id": 22978,
+    "key": "Reputation_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Reputation_StakeCategoryKey",
+    "ru": "Репутация",
+    "en": "Reputation",
+    "ko": "명성"
+  },
+  {
+    "id": 22979,
+    "key": "Day",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Day",
+    "ru": "День",
+    "en": "Day",
+    "ko": "일"
+  },
+  {
+    "id": 22980,
+    "key": "Weapon_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Weapon_Tag_Key",
+    "ru": "Оружие",
+    "en": "Weapon",
+    "ko": "무기"
+  },
+  {
+    "id": 22981,
+    "key": "Dangerous_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Dangerous_Tag_Key",
+    "ru": "Опасное",
+    "en": "Dangerous",
+    "ko": "위험함"
+  },
+  {
+    "id": 22982,
+    "key": "Strange_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Strange_Tag_Key",
+    "ru": "Странное",
+    "en": "Strange",
+    "ko": "이상함"
+  },
+  {
+    "id": 22983,
+    "key": "Ranged_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Ranged_Tag_Key",
+    "ru": "Дистанционное",
+    "en": "Remote",
+    "ko": "원격"
+  },
+  {
+    "id": 22984,
+    "key": "Melee_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Melee_Tag_Key",
+    "ru": "Ближний бой",
+    "en": "Close Combat",
+    "ko": "근접 전투"
+  },
+  {
+    "id": 22985,
+    "key": "Portable Light_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Portable Light_Tag_Key",
+    "ru": "Свет",
+    "en": "Light",
+    "ko": "광원"
+  },
+  {
+    "id": 22986,
+    "key": "Paper-Made_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Paper-Made_Tag_Key",
+    "ru": "Бумажное",
+    "en": "Paper",
+    "ko": "종이"
+  },
+  {
+    "id": 22987,
+    "key": "Improvised Weapon_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Improvised Weapon_Tag_Key",
+    "ru": "Импровизированное оружие",
+    "en": "Improvised Weapons",
+    "ko": "즉석 무기"
+  },
+  {
+    "id": 22988,
+    "key": "Two-Handed_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Two-Handed_Tag_Key",
+    "ru": "Двуручное",
+    "en": "Two-handed",
+    "ko": "양손 무기"
+  },
+  {
+    "id": 22989,
+    "key": "Container_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Container_Tag_Key",
+    "ru": "Контейнер",
+    "en": "Container",
+    "ko": "보관함"
+  },
+  {
+    "id": 22990,
+    "key": "Clothes_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Clothes_Tag_Key",
+    "ru": "Одежда",
+    "en": "Clothes",
+    "ko": "의복"
+  },
+  {
+    "id": 22991,
+    "key": "Mask_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Mask_Tag_Key",
+    "ru": "Маска",
+    "en": "Mask",
+    "ko": "가면"
+  },
+  {
+    "id": 22992,
+    "key": "Thing_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Thing_Tag_Key",
+    "ru": "Вещь",
+    "en": "Thing",
+    "ko": "물건"
+  },
+  {
+    "id": 22993,
+    "key": "Outerwear_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Outerwear_Tag_Key",
+    "ru": "Верхняя",
+    "en": "Upper",
+    "ko": "겉옷"
+  },
+  {
+    "id": 22994,
+    "key": "Item_Count_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Item_Count_Key",
+    "ru": "Количество",
+    "en": "Quantity",
+    "ko": "수량"
+  },
+  {
+    "id": 22995,
+    "key": "ClueBoardHeader",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ClueBoardHeader",
+    "ru": "Улики",
+    "en": "Clues",
+    "ko": "단서"
+  },
+  {
+    "id": 22996,
+    "key": "All_Clue_Category_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "All_Clue_Category_Key",
+    "ru": "Улики Города",
+    "en": "City Clues",
+    "ko": "도시의 단서"
+  },
+  {
+    "id": 22997,
+    "key": "Illegal_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Illegal_Tag_Key",
+    "ru": "Незаконное",
+    "en": "Illegal",
+    "ko": "불법"
+  },
+  {
+    "id": 22998,
+    "key": "Food_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Food_Tag_Key",
+    "ru": "Еда",
+    "en": "Food",
+    "ko": "음식"
+  },
+  {
+    "id": 22999,
+    "key": "MissionResourceUnlockTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionResourceUnlockTitle",
+    "ru": "Эпизод разблокирован!",
+    "en": "Episode unlocked!",
+    "ko": "에피소드가 해금되었습니다!"
+  },
+  {
+    "id": 23000,
+    "key": "Tool_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Tool_Tag_Key",
+    "ru": "Инструмент",
+    "en": "Tool",
+    "ko": "도구"
+  },
+  {
+    "id": 23001,
+    "key": "Hat_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Hat_Tag_Key",
+    "ru": "Шляпа",
+    "en": "Hat",
+    "ko": "모자"
+  },
+  {
+    "id": 23002,
+    "key": "Metal_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Metal_Tag_Key",
+    "ru": "Металл",
+    "en": "Metal",
+    "ko": "금속"
+  },
+  {
+    "id": 23003,
+    "key": "Childs_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Childs_Tag_Key",
+    "ru": "Детская",
+    "en": "Children's",
+    "ko": "아동용"
+  },
+  {
+    "id": 23004,
+    "key": "Deadly Force_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Deadly Force_Tag_Key",
+    "ru": "Смертоносное",
+    "en": "Deadly",
+    "ko": "치명적인"
+  },
+  {
+    "id": 23005,
+    "key": "Sharp_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Sharp_Tag_Key",
+    "ru": "Режущее",
+    "en": "Cutting",
+    "ko": "날붙이"
+  },
+  {
+    "id": 23006,
+    "key": "Expensive_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Expensive_Tag_Key",
+    "ru": "Дорогое",
+    "en": "Expensive",
+    "ko": "고가품"
+  },
+  {
+    "id": 23007,
+    "key": "Medicine_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Medicine_Tag_Key",
+    "ru": "Лекарство",
+    "en": "Medicine",
+    "ko": "약"
+  },
+  {
+    "id": 23008,
+    "key": "Document_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Document_Tag_Key",
+    "ru": "Документ",
+    "en": "Document",
+    "ko": "문서"
+  },
+  {
+    "id": 23009,
+    "key": "NotesWindow_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NotesWindow_Title",
+    "ru": "Заметки",
+    "en": "Notes",
+    "ko": "메모"
+  },
+  {
+    "id": 23010,
+    "key": "Personalities_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Personalities_TopicKey",
+    "ru": "Личности",
+    "en": "Personalities",
+    "ko": "인물"
+  },
+  {
+    "id": 23011,
+    "key": "News_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "News_TopicKey",
+    "ru": "Новости Города",
+    "en": "City News",
+    "ko": "도시 뉴스"
+  },
+  {
+    "id": 23012,
+    "key": "Lore_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Lore_TopicKey",
+    "ru": "Городской фольклор",
+    "en": "City Lore",
+    "ko": "도시 전승"
+  },
+  {
+    "id": 23013,
+    "key": "SuccessSkillCheck",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SuccessSkillCheck",
+    "ru": "Успех!",
+    "en": "Success!",
+    "ko": "성공했습니다!"
+  },
+  {
+    "id": 23014,
+    "key": "FailSkillCheck",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "FailSkillCheck",
+    "ru": "Провал...",
+    "en": "Failure...",
+    "ko": "실패..."
+  },
+  {
+    "id": 23015,
+    "key": "ImpossibleSkillCheckDifficulty",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ImpossibleSkillCheckDifficulty",
+    "ru": "<i>Риск:</i> чрезвычайный",
+    "en": "<i>Risk:</i> Extreme",
+    "ko": "<i>위험도:</i> 극도로 높음"
+  },
+  {
+    "id": 23016,
+    "key": "SafeSkillCheckDifficulty",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SafeSkillCheckDifficulty",
+    "ru": "<i>Риск:</i> нет",
+    "en": "<i>Risk:</i> None",
+    "ko": "<i>위험도:</i> 없음"
+  },
+  {
+    "id": 23017,
+    "key": "RiskySkillCheckDifficulty",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "RiskySkillCheckDifficulty",
+    "ru": "<i>Риск:</i> средний",
+    "en": "<i>Risk:</i> Average",
+    "ko": "<i>위험도:</i> 중간"
+  },
+  {
+    "id": 23018,
+    "key": "ExtremeSkillCheckDifficulty",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ExtremeSkillCheckDifficulty",
+    "ru": "<i>Риск:</i> большой",
+    "en": "<i>Risk:</i> high",
+    "ko": "<i>위험도:</i> 높음"
+  },
+  {
+    "id": 23019,
+    "key": "MissionIconTimerWaitForText",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionIconTimerWaitForText",
+    "ru": "Осталось Фаз",
+    "en": "Phases Left",
+    "ko": "남은 단계"
+  },
+  {
+    "id": 23020,
+    "key": "ConflictScaleNPCWins",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCWins",
+    "ru": "Противник пытается победить",
+    "en": "The enemy is trying to win",
+    "ko": "적이 승리하려 합니다"
+  },
+  {
+    "id": 23021,
+    "key": "ConflictScaleNPCGrabs",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCGrabs",
+    "ru": "Противник пытается захватить вас",
+    "en": "The enemy is trying to capture you",
+    "ko": "적이 당신을 붙잡으려 합니다"
+  },
+  {
+    "id": 23022,
+    "key": "ConflictScaleNPCNeutralizes",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCNeutralizes",
+    "ru": "Противник пытается обезвредить вас",
+    "en": "The enemy is trying to disable you",
+    "ko": "적이 당신을 무력화하려 합니다"
+  },
+  {
+    "id": 23023,
+    "key": "ConflictScaleNPCStandoff",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCStandoff",
+    "ru": "Противник пытается получить преимущество",
+    "en": "The enemy is trying to gain an advantage",
+    "ko": "적이 우위를 점하려 합니다"
+  },
+  {
+    "id": 23024,
+    "key": "ConflictScaleNPCDefending",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCDefending",
+    "ru": "Противник пытается защититься",
+    "en": "The enemy is trying to defend himself",
+    "ko": "적이 방어하려 합니다"
+  },
+  {
+    "id": 23025,
+    "key": "ConflictScaleNPCFlee",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCFlee",
+    "ru": "Противник пытается сбежать",
+    "en": "The enemy is trying to escape",
+    "ko": "적이 도망치려 합니다"
+  },
+  {
+    "id": 23026,
+    "key": "ConflictScaleNPCSurrender",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConflictScaleNPCSurrender",
+    "ru": "Противник пытается сдаться",
+    "en": "The enemy is trying to surrender",
+    "ko": "적이 항복하려 합니다"
+  },
+  {
+    "id": 23027,
+    "key": "MapEventTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MapEventTitle",
+    "ru": "Событие Города",
+    "en": "City Event",
+    "ko": "도시 이벤트"
+  },
+  {
+    "id": 23028,
+    "key": "UnderstoodKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "UnderstoodKey",
+    "ru": "Принять",
+    "en": "Accept",
+    "ko": "수락"
+  },
+  {
+    "id": 23029,
+    "key": "MapEventIcon_TooltipTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MapEventIcon_TooltipTitle",
+    "ru": "Событие",
+    "en": "Event",
+    "ko": "이벤트"
+  },
+  {
+    "id": 23030,
+    "key": "Raid_AssignmentKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Raid_AssignmentKey",
+    "ru": "Готовит налет",
+    "en": "Preparing Raid",
+    "ko": "습격 준비 중"
+  },
+  {
+    "id": 23031,
+    "key": "Lie Low_AssignmentKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Lie Low_AssignmentKey",
+    "ru": "Скрывается",
+    "en": "Hiding",
+    "ko": "은신 중"
+  },
+  {
+    "id": 23032,
+    "key": "Clue_AssignmentKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Clue_AssignmentKey",
+    "ru": "Ищет Улики",
+    "en": "Looking for Clues",
+    "ko": "단서 찾는 중"
+  },
+  {
+    "id": 23033,
+    "key": "City Event_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "City Event_StakeCategoryKey",
+    "ru": "Городское событие",
+    "en": "City event",
+    "ko": "도시 이벤트"
+  },
+  {
+    "id": 23034,
+    "key": "Heavy_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Heavy_Tag_Key",
+    "ru": "Тяжелое",
+    "en": "Heavy",
+    "ko": "무거움"
+  },
+  {
+    "id": 23035,
+    "key": "PhaseLateNight",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseLateNight",
+    "ru": "Полночь",
+    "en": "Midnight",
+    "ko": "한밤중"
+  },
+  {
+    "id": 23036,
+    "key": "PhaseAfternoon",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PhaseAfternoon",
+    "ru": "После обеда",
+    "en": "After lunch",
+    "ko": "오후"
+  },
+  {
+    "id": 23037,
+    "key": "Costume_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Costume_Tag_Key",
+    "ru": "Костюм",
+    "en": "Outfit",
+    "ko": "의상"
+  },
+  {
+    "id": 23038,
+    "key": "Secret_Mission_Description",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Secret_Mission_Description",
+    "ru": "Неизвестный эпизод",
+    "en": "Unknown episode",
+    "ko": "알 수 없는 에피소드"
+  },
+  {
+    "id": 23039,
+    "key": "LoadoutInventoryContentPopup_TakeAllThings",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadoutInventoryContentPopup_TakeAllThings",
+    "ru": "Взять всё",
+    "en": "Take All",
+    "ko": "다 챙기기"
+  },
+  {
+    "id": 23040,
+    "key": "LoadoutInventoryContentPopup_TakeAllClothes",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadoutInventoryContentPopup_TakeAllClothes",
+    "ru": "Взять всё",
+    "en": "Take All",
+    "ko": "다 챙기기"
+  },
+  {
+    "id": 23041,
+    "key": "LoadoutInventoryContentPopup_Launch",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadoutInventoryContentPopup_Launch",
+    "ru": "Подтвердить снаряжение",
+    "en": "Confirm Equipment",
+    "ko": "장비 확인"
+  },
+  {
+    "id": 23042,
+    "key": "Male",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Male",
+    "ru": "Мужчина",
+    "en": "Man",
+    "ko": "남성"
+  },
+  {
+    "id": 23043,
+    "key": "Female",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Female",
+    "ru": "Женщина",
+    "en": "Woman",
+    "ko": "여성"
+  },
+  {
+    "id": 23044,
+    "key": "Buff_Tooltip_Zone_Name",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Buff_Tooltip_Zone_Name",
+    "ru": "Положительный эффект:",
+    "en": "Positive effect:",
+    "ko": "긍정적인 효과:"
+  },
+  {
+    "id": 23045,
+    "key": "Debuff_Tooltip_Zone_Name",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Debuff_Tooltip_Zone_Name",
+    "ru": "Негативный эффект:",
+    "en": "Negative effect:",
+    "ko": "부정적인 효과:"
+  },
+  {
+    "id": 23046,
+    "key": "TabbedMenu_Character",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Character",
+    "ru": "Персонаж",
+    "en": "Character",
+    "ko": "캐릭터"
+  },
+  {
+    "id": 23047,
+    "key": "TabbedMenu_Clues",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Clues",
+    "ru": "Улики",
+    "en": "Clues",
+    "ko": "단서"
+  },
+  {
+    "id": 23048,
+    "key": "TabbedMenu_Inventory",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Inventory",
+    "ru": "Инвентарь",
+    "en": "Inventory",
+    "ko": "인벤토리"
+  },
+  {
+    "id": 23049,
+    "key": "TabbedMenu_Notes",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Notes",
+    "ru": "Заметки",
+    "en": "Notes",
+    "ko": "메모"
+  },
+  {
+    "id": 23050,
+    "key": "TabbedMenu_Missions",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Missions",
+    "ru": "Эпизоды",
+    "en": "Episodes",
+    "ko": "에피소드"
+  },
+  {
+    "id": 23051,
+    "key": "TabbedMenu_Conspiracy",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Conspiracy",
+    "ru": "Заговор",
+    "en": "Conspiracy",
+    "ko": "비밀결사"
+  },
+  {
+    "id": 23052,
+    "key": "TabbedMenu_MissionsWindow_Active",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_MissionsWindow",
+    "detail": "TabbedMenu_MissionsWindow_Active",
+    "ru": "Текущий Эпизод",
+    "en": "Current Episode",
+    "ko": "현재 에피소드"
+  },
+  {
+    "id": 23053,
+    "key": "TabbedMenu_MissionsWindow_Completed",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_MissionsWindow",
+    "detail": "TabbedMenu_MissionsWindow_Completed",
+    "ru": "Выполненные",
+    "en": "Completed",
+    "ko": "완료됨"
+  },
+  {
+    "id": 23054,
+    "key": "TabbedMenu_MissionsWindow_Failed",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_MissionsWindow",
+    "detail": "TabbedMenu_MissionsWindow_Failed",
+    "ru": "Проваленные",
+    "en": "Failed",
+    "ko": "실패함"
+  },
+  {
+    "id": 23055,
+    "key": "TabbedMenu_Conspiracy_BattlePower",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_BattlePower",
+    "ru": "Боевая сила",
+    "en": "Fighting force",
+    "ko": "전투력"
+  },
+  {
+    "id": 23056,
+    "key": "TabbedMenu_Conspiracy_MysticAlly",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_MysticAlly",
+    "ru": "Покровитель с Той Стороны",
+    "en": "Patron from the Other Side",
+    "ko": "저편의 후원자"
+  },
+  {
+    "id": 23057,
+    "key": "TabbedMenu_Conspiracy_InfluentialPerson",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_InfluentialPerson",
+    "ru": "Влиятельное лицо",
+    "en": "Influential person",
+    "ko": "영향력 있는 인물"
+  },
+  {
+    "id": 23058,
+    "key": "TabbedMenu_Conspiracy_VulnerableSpot",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_VulnerableSpot",
+    "ru": "Уязвимость Семьи",
+    "en": "Family Vulnerability",
+    "ko": "가문의 취약점"
+  },
+  {
+    "id": 23059,
+    "key": "TabbedMenu_Conspiracy_Money",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_Money",
+    "ru": "Средства",
+    "en": "Funds",
+    "ko": "자금"
+  },
+  {
+    "id": 23060,
+    "key": "TabbedMenu_Conspiracy_Superweapon",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_Conspiracy",
+    "detail": "TabbedMenu_Conspiracy_Superweapon",
+    "ru": "Оружие",
+    "en": "Weapon",
+    "ko": "무기"
+  },
+  {
+    "id": 23061,
+    "key": "GraphicSettingsLow",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "GraphicSettingsLow",
+    "ru": "Низкая",
+    "en": "Low",
+    "ko": "낮음"
+  },
+  {
+    "id": 23062,
+    "key": "GraphicSettingsMedium",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "GraphicSettingsMedium",
+    "ru": "Средняя",
+    "en": "Average",
+    "ko": "보통"
+  },
+  {
+    "id": 23063,
+    "key": "GraphicSettingsHigh",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "GraphicSettingsHigh",
+    "ru": "Высокая",
+    "en": "High",
+    "ko": "높음"
+  },
+  {
+    "id": 23064,
+    "key": "StakeStatus_Lost",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "StakeStatus_Lost",
+    "ru": "Потеряно",
+    "en": "Lost",
+    "ko": "상실"
+  },
+  {
+    "id": 23065,
+    "key": "Buff_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Buff_StakeCategoryKey",
+    "ru": "Усиление",
+    "en": "Boost",
+    "ko": "강화"
+  },
+  {
+    "id": 23066,
+    "key": "Debuff_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Debuff_StakeCategoryKey",
+    "ru": "Слабость",
+    "en": "Weakness",
+    "ko": "약점"
+  },
+  {
+    "id": 23067,
+    "key": "Harm_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Harm_StakeCategoryKey",
+    "ru": "Урон",
+    "en": "Harm",
+    "ko": "피해량"
+  },
+  {
+    "id": 23068,
+    "key": "Trait_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Trait_StakeCategoryKey",
+    "ru": "Черта",
+    "en": "Trait",
+    "ko": "기질"
+  },
+  {
+    "id": 23069,
+    "key": "Ability_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Ability_StakeCategoryKey",
+    "ru": "Аспект",
+    "en": "Aspect",
+    "ko": "특성"
+  },
+  {
+    "id": 23070,
+    "key": "InteractPopUpName",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "InteractPopUpName",
+    "ru": "interact_button  item_action",
+    "en": "interact_button item_action",
+    "ko": "interact_button item_action"
+  },
+  {
+    "id": 23071,
+    "key": "ConditionMustHave",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "ConditionMustHave",
+    "ru": "Должен быть",
+    "en": "Must Be",
+    "ko": "충족되어야 함"
+  },
+  {
+    "id": 23072,
+    "key": "ConditionMustNotHave",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "ConditionMustNotHave",
+    "ru": "Не должен быть",
+    "en": "Must Not Be",
+    "ko": "해당하지 않아야 함"
+  },
+  {
+    "id": 23073,
+    "key": "Achieved_Сondition_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "Achieved_Сondition_Key",
+    "ru": "Достигнуто",
+    "en": "Achieved",
+    "ko": "달성됨"
+  },
+  {
+    "id": 23074,
+    "key": "NotAchieved_Сondition_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "NotAchieved_Сondition_Key",
+    "ru": "Не достигнуто",
+    "en": "Not achieved",
+    "ko": "달성되지 않음"
+  },
+  {
+    "id": 23075,
+    "key": "StakeStatus_Completed",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "StakeStatus_Completed",
+    "ru": "Получено",
+    "en": "Gained",
+    "ko": "획득됨"
+  },
+  {
+    "id": 23076,
+    "key": "Fail_Description_Key",
+    "context": "UI Localization File",
+    "field": "Consequence",
+    "detail": "Fail_Description_Key",
+    "ru": "Провал:",
+    "en": "Failure:",
+    "ko": "실패:"
+  },
+  {
+    "id": 23077,
+    "key": "Win_Description_Key",
+    "context": "UI Localization File",
+    "field": "Consequence",
+    "detail": "Win_Description_Key",
+    "ru": "Успех:",
+    "en": "Success:",
+    "ko": "성공:"
+  },
+  {
+    "id": 23078,
+    "key": "ContinueButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ContinueButton",
+    "ru": "Продолжить",
+    "en": "Continue",
+    "ko": "계속하기"
+  },
+  {
+    "id": 23079,
+    "key": "KeyMissionFacade_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "KeyMissionFacade_Title",
+    "ru": "Требования",
+    "en": "Requirements",
+    "ko": "요구사항"
+  },
+  {
+    "id": 23080,
+    "key": "SimpleTooltip_ShowAllActions",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SimpleTooltip_ShowAllActions",
+    "ru": "Взаимодействовать",
+    "en": "Interact",
+    "ko": "상호작용하기"
+  },
+  {
+    "id": 23081,
+    "key": "QuestFacade_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuestFacade_Title",
+    "ru": "Цель Заговора",
+    "en": "Goal of the Conspiracy",
+    "ko": "비밀결사의 목표"
+  },
+  {
+    "id": 23082,
+    "key": "MissionConditionFacade_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionConditionFacade_Title",
+    "ru": "Условия эпизода",
+    "en": "Episode Conditions",
+    "ko": "에피소드 조건"
+  },
+  {
+    "id": 23083,
+    "key": "MapTabbedMenuOpen_ButtonName",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MapTabbedMenuOpen_ButtonName",
+    "ru": "Заговор",
+    "en": "Conspiracy",
+    "ko": "비밀결사"
+  },
+  {
+    "id": 23084,
+    "key": "MissionReward_CoverSustain_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionReward_CoverSustain_Key",
+    "ru": "Поддержка Прикрытия",
+    "en": "Cover Support",
+    "ko": "위장 신분 지원"
+  },
+  {
+    "id": 23085,
+    "key": "None_AssignmentKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "None_AssignmentKey",
+    "ru": "Нет поручения",
+    "en": "No assignment",
+    "ko": "임무 할당 없음"
+  },
+  {
+    "id": 23086,
+    "key": "Reward_Saving_ConspiratorIsKidnappedMission",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Reward_Saving_ConspiratorIsKidnappedMission",
+    "ru": "Заговорщик: Спасен",
+    "en": "Conspirator: Saved",
+    "ko": "비밀결사원: 구출됨"
+  },
+  {
+    "id": 23087,
+    "key": "City Life_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "City Life_TopicKey",
+    "ru": "Жизнь Города",
+    "en": "City Life",
+    "ko": "도시 생활"
+  },
+  {
+    "id": 23088,
+    "key": "LoadoutInventoryContentPopup_Continue",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadoutInventoryContentPopup_Continue",
+    "ru": "Принять",
+    "en": "Confirm",
+    "ko": "승인하기"
+  },
+  {
+    "id": 23089,
+    "key": "SecretConsequence",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SecretConsequence",
+    "ru": "<i>неизвестно</i>",
+    "en": "<i>unknown</i>",
+    "ko": "<i>알 수 없음</i>"
+  },
+  {
+    "id": 23090,
+    "key": "Clues_RewardKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Clues_RewardKey",
+    "ru": "Улики",
+    "en": "Clues",
+    "ko": "단서"
+  },
+  {
+    "id": 23091,
+    "key": "MasterOfTheCity_Reward",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MasterOfTheCity_Reward",
+    "ru": "Покровительство Брокена",
+    "en": "Brocken's Patronage",
+    "ko": "브로켄의 후원"
+  },
+  {
+    "id": 23092,
+    "key": "LoadoutWindow_MissionInfoBoxTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadoutWindow_MissionInfoBoxTitle",
+    "ru": "Предстоящий эпизод",
+    "en": "Next Episode",
+    "ko": "다음 에피소드"
+  },
+  {
+    "id": 23093,
+    "key": "NameRequestKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NameRequestKey",
+    "ru": "Введите имя и фамилию",
+    "en": "Enter first and last name",
+    "ko": "이름과 성을 입력하세요"
+  },
+  {
+    "id": 23094,
+    "key": "FirsNameKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "FirsNameKey",
+    "ru": "Имя",
+    "en": "Name",
+    "ko": "이름"
+  },
+  {
+    "id": 23095,
+    "key": "EnterFirsNameKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "EnterFirsNameKey",
+    "ru": "Введите имя...",
+    "en": "Enter name...",
+    "ko": "이름을 입력하세요…"
+  },
+  {
+    "id": 23096,
+    "key": "LastNameKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LastNameKey",
+    "ru": "Фамилия",
+    "en": "Surname",
+    "ko": "성"
+  },
+  {
+    "id": 23097,
+    "key": "EnterLastNameKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "EnterLastNameKey",
+    "ru": "Введите фамилию...",
+    "en": "Enter last name...",
+    "ko": "성을 입력하세요…"
+  },
+  {
+    "id": 23098,
+    "key": "ConfirmKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConfirmKey",
+    "ru": "Подтвердить",
+    "en": "Confirm",
+    "ko": "확인하기"
+  },
+  {
+    "id": 23099,
+    "key": "InfoSummaryTitleKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "InfoSummaryTitleKey",
+    "ru": "Характеристики из Детства",
+    "en": "Character Properties from Childhood",
+    "ko": "어린 시절의 특성"
+  },
+  {
+    "id": 23100,
+    "key": "Class_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Class_StakeCategoryKey",
+    "ru": "Судьба",
+    "en": "Fate",
+    "ko": "운명"
+  },
+  {
+    "id": 23101,
+    "key": "PersonalizationWindow.ItemName.Unknown",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.ItemName.Unknown",
+    "ru": "Неизвестный предмет",
+    "en": "Unknown object",
+    "ko": "알 수 없는 물체"
+  },
+  {
+    "id": 23102,
+    "key": "PersonalizationWindow.GroupName.SkinColor",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.SkinColor",
+    "ru": "Цвет кожи",
+    "en": "Skin color",
+    "ko": "피부색"
+  },
+  {
+    "id": 23103,
+    "key": "PersonalizationWindow.GroupName.HairColor",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.HairColor",
+    "ru": "Цвет волос",
+    "en": "Hair color",
+    "ko": "머리색"
+  },
+  {
+    "id": 23104,
+    "key": "PersonalizationWindow.GroupName.Hat",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Hat",
+    "ru": "Головной убор",
+    "en": "Headdress",
+    "ko": "모자"
+  },
+  {
+    "id": 23105,
+    "key": "PersonalizationWindow.GroupName.FacialHair",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.FacialHair",
+    "ru": "Усы и Борода",
+    "en": "Mustache and Beard",
+    "ko": "콧수염 및 턱수염"
+  },
+  {
+    "id": 23106,
+    "key": "Talent_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Talent_StakeCategoryKey",
+    "ru": "Талант",
+    "en": "Talent",
+    "ko": "재능"
+  },
+  {
+    "id": 23107,
+    "key": "Weakness_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Weakness_StakeCategoryKey",
+    "ru": "Слабость",
+    "en": "Weakness",
+    "ko": "약점"
+  },
+  {
+    "id": 23108,
+    "key": "Moves_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Moves_StakeCategoryKey",
+    "ru": "Прием",
+    "en": "Technique",
+    "ko": "요령"
+  },
+  {
+    "id": 23109,
+    "key": "Career_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Career_StakeCategoryKey",
+    "ru": "Карьера",
+    "en": "Career",
+    "ko": "경력"
+  },
+  {
+    "id": 23110,
+    "key": "RestartMissionButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "RestartMissionButton",
+    "ru": "Перезапустить эпизод",
+    "en": "Rewind Episode",
+    "ko": "에피소드 다시 시작"
+  },
+  {
+    "id": 23111,
+    "key": "MissionResultPopup_RewindMissionButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionResultPopup_RewindMissionButton",
+    "ru": "Перезапустить",
+    "en": "Rewind",
+    "ko": "다시 시작"
+  },
+  {
+    "id": 23112,
+    "key": "MissionResultPopup_FinishMissionButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionResultPopup_FinishMissionButton",
+    "ru": "Завершить",
+    "en": "Finish",
+    "ko": "마치기"
+  },
+  {
+    "id": 23113,
+    "key": "MissionResourceRewindTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionResourceRewindTitle",
+    "ru": "Эпизод перезапущен!",
+    "en": "Episode rewinded!",
+    "ko": "에피소드를 다시 시작했습니다!"
+  },
+  {
+    "id": 23114,
+    "key": "ContinueGame",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "ContinueGame",
+    "ru": "Продолжить",
+    "en": "Continue",
+    "ko": "계속하기"
+  },
+  {
+    "id": 23115,
+    "key": "StartNewGame",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "StartNewGame",
+    "ru": "Новая игра",
+    "en": "New game",
+    "ko": "새 게임"
+  },
+  {
+    "id": 23116,
+    "key": "Text_LoadingScreen",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Text_LoadingScreen",
+    "ru": "Загрузка...",
+    "en": "Loading...",
+    "ko": "로딩 중…"
+  },
+  {
+    "id": 23117,
+    "key": "MissionResultPopup_LoadAutoSaveButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionResultPopup_LoadAutoSaveButton",
+    "ru": "Загрузить последнее сохранение",
+    "en": "Load last save",
+    "ko": "마지막 저장 데이터 불러오기"
+  },
+  {
+    "id": 23118,
+    "key": "CheckpointReachedNotificationTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "CheckpointReachedNotificationTitle",
+    "ru": "Точка сохранения...",
+    "en": "Save point...",
+    "ko": "저장 지점…"
+  },
+  {
+    "id": 23119,
+    "key": "LoadAutoSaveButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "LoadAutoSaveButton",
+    "ru": "К точке сохранения",
+    "en": "To the save point",
+    "ko": "저장 지점으로 돌아가기"
+  },
+  {
+    "id": 23120,
+    "key": "CheckpointReachedNotificationDescription",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "CheckpointReachedNotificationDescription",
+    "ru": "Не выключайте компьютер",
+    "en": "Please do not turn off the computer",
+    "ko": "컴퓨터의 전원을 끄지 마십시오"
+  },
+  {
+    "id": 23121,
+    "key": "Origin_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Origin_StakeCategoryKey",
+    "ru": "Происхождение",
+    "en": "Origin",
+    "ko": "출신"
+  },
+  {
+    "id": 23122,
+    "key": "Object_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Object_StakeCategoryKey",
+    "ru": "Статус",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "id": 23123,
+    "key": "Mission_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Mission_StakeCategoryKey",
+    "ru": "Ставка",
+    "en": "Stake",
+    "ko": "쟁점"
+  },
+  {
+    "id": 23124,
+    "key": "Location_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Location_StakeCategoryKey",
+    "ru": "Ситуация",
+    "en": "Situation",
+    "ko": "상황"
+  },
+  {
+    "id": 23125,
+    "key": "Appearance_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Appearance_StakeCategoryKey",
+    "ru": "Внешность",
+    "en": "Appearance",
+    "ko": "외모"
+  },
+  {
+    "id": 23126,
+    "key": "Principle_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Principle_StakeCategoryKey",
+    "ru": "Принцип",
+    "en": "Principle",
+    "ko": "원칙"
+  },
+  {
+    "id": 23127,
+    "key": "Gender_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Gender_StakeCategoryKey",
+    "ru": "Пол",
+    "en": "Gender",
+    "ko": "성별"
+  },
+  {
+    "id": 23128,
+    "key": "Cover_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Cover_StakeCategoryKey",
+    "ru": "Прикрытие",
+    "en": "Cover",
+    "ko": "위장 신분"
+  },
+  {
+    "id": 23129,
+    "key": "Concealed_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Concealed_Tag_Key",
+    "ru": "Скрытое ношение",
+    "en": "Concealed carry",
+    "ko": "은밀 휴대"
+  },
+  {
+    "id": 23130,
+    "key": "Hint_Wolf1",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Wolf1",
+    "ru": "«Нам тут в Городе новых хлопот не нужно. Старых, знаете ли, хватает!» — Канцлер Брокена",
+    "en": "\"We don't need any new troubles here in the City. We have enough of the old ones, you know!\" — Chancellor of Brocken",
+    "ko": "“이 도시에 골칫거리가 또 생겨서야 쓰나. 여태 있던 것만으로도 충분히 골치가 아픈데!” — 브로켄 재상"
+  },
+  {
+    "id": 23131,
+    "key": "Hint_Wolf2",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Wolf2",
+    "ru": "«Скоро весь город вновь окажется в моих любящих объятиях...» — Госпожа Траум",
+    "en": "\"Soon the whole city will be back in my loving arms...\" — Madam Traum",
+    "ko": "“머지않아 이 도시가 통째로 내 따뜻한 품에 돌아올 거야…” — 트라움 부인"
+  },
+  {
+    "id": 23132,
+    "key": "Hint_Wolf3",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Wolf3",
+    "ru": "«Тут, на Той Стороне, порой так ярко, что приходится носить темные очки». — Мертвец",
+    "en": "\"Here, on the Other Side, it gets so bright that one has to wear dark glasses.\" — The Dead Man",
+    "ko": "“여기 저편엔 가끔 빛이 어찌나 눈부신지, 검은 안경을 껴야 한다네.” — 망자"
+  },
+  {
+    "id": 23133,
+    "key": "Hint_Buffet1",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Buffet1",
+    "ru": "«За мой возраст не волнуйтесь. Я в самом расцвете. Еще вас всех переживу». — Старуха Траум",
+    "en": "\"Don't worry about my age. I'm in my prime. I'll outlive you all.\" — Grand Dame Traum",
+    "ko": "“내 나이는 걱정들 마. 난 지금이 한창이야. 너희 모두보다 오래 살 테니 두고 보렴.” — 트라움 대부인"
+  },
+  {
+    "id": 23134,
+    "key": "SettingsWindowTab_Gameplay",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "SettingsWindowTab_Gameplay",
+    "ru": "Игра и звук",
+    "en": "Game and sound",
+    "ko": "게임 및 소리"
+  },
+  {
+    "id": 23135,
+    "key": "SettingsWindowTab_Sound",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "SettingsWindowTab_Sound",
+    "ru": "Громкость звука",
+    "en": "Sound volume",
+    "ko": "음량"
+  },
+  {
+    "id": 23136,
+    "key": "SettingsWindowTab_Display",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "SettingsWindowTab_Display",
+    "ru": "Экран",
+    "en": "Screen",
+    "ko": "화면"
+  },
+  {
+    "id": 23137,
+    "key": "SettingsWindowTab_Graphic",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "SettingsWindowTab_Graphic",
+    "ru": "Графика",
+    "en": "Graphics",
+    "ko": "그래픽"
+  },
+  {
+    "id": 23138,
+    "key": "MainMenu_Settings",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "MainMenu_Settings",
+    "ru": "Настройки",
+    "en": "Settings",
+    "ko": "설정"
+  },
+  {
+    "id": 23139,
+    "key": "settings_language",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_language",
+    "ru": "Язык",
+    "en": "Language",
+    "ko": "언어"
+  },
+  {
+    "id": 23140,
+    "key": "settings_music",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_music",
+    "ru": "Музыка",
+    "en": "Music",
+    "ko": "음악"
+  },
+  {
+    "id": 23141,
+    "key": "settings_sound",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_sound",
+    "ru": "Звук",
+    "en": "Sound",
+    "ko": "효과음"
+  },
+  {
+    "id": 23142,
+    "key": "settings_back",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_back",
+    "ru": "Назад в меню",
+    "en": "Back to main menu",
+    "ko": "메인 메뉴로 돌아가기"
+  },
+  {
+    "id": 23143,
+    "key": "settings_display",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_display",
+    "ru": "Режим экрана",
+    "en": "Screen mode",
+    "ko": "화면 모드"
+  },
+  {
+    "id": 23144,
+    "key": "settings_vsync",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_vsync",
+    "ru": "VSync",
+    "en": "VSync",
+    "ko": "수직 동기화"
+  },
+  {
+    "id": 23145,
+    "key": "settings_quality",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality",
+    "ru": "Качество графики",
+    "en": "Graphics quality",
+    "ko": "그래픽 품질"
+  },
+  {
+    "id": 23146,
+    "key": "settings_lock_framerate",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_lock_framerate",
+    "ru": "Ограничить частоту кадров",
+    "en": "Limit frame rate",
+    "ko": "프레임 속도 제한"
+  },
+  {
+    "id": 23147,
+    "key": "settings_framerate",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_framerate",
+    "ru": "Частота кадров",
+    "en": "Frame rate",
+    "ko": "프레임 속도"
+  },
+  {
+    "id": 23148,
+    "key": "settings_resolution",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_resolution",
+    "ru": "Разрешение экрана",
+    "en": "Screen resolution",
+    "ko": "화면 해상도"
+  },
+  {
+    "id": 23149,
+    "key": "settings_ExclusiveFullScreen",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_ExclusiveFullScreen",
+    "ru": "Полный экран",
+    "en": "Full screen",
+    "ko": "전체 화면"
+  },
+  {
+    "id": 23150,
+    "key": "settings_FullScreenWindow",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_FullScreenWindow",
+    "ru": "Окно без рамки",
+    "en": "Borderless window",
+    "ko": "테두리 없는 창"
+  },
+  {
+    "id": 23151,
+    "key": "settings_MaximizedWindow",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_MaximizedWindow",
+    "ru": "Полноэкранное окно",
+    "en": "Fullscreen window",
+    "ko": "전체 화면 창 모드"
+  },
+  {
+    "id": 23152,
+    "key": "settings_Windowed",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_Windowed",
+    "ru": "Окно",
+    "en": "Window",
+    "ko": "창"
+  },
+  {
+    "id": 23153,
+    "key": "settings_quality_Low",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Low",
+    "ru": "Низкое",
+    "en": "Low",
+    "ko": "낮음"
+  },
+  {
+    "id": 23154,
+    "key": "settings_quality_Medium",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Medium",
+    "ru": "Среднее",
+    "en": "Average",
+    "ko": "보통"
+  },
+  {
+    "id": 23155,
+    "key": "settings_quality_High",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_High",
+    "ru": "Высокое",
+    "en": "High",
+    "ko": "높음"
+  },
+  {
+    "id": 23156,
+    "key": "settings_quality_Ver High",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Ver High",
+    "ru": "Очень высокое",
+    "en": "Very high",
+    "ko": "매우 높음"
+  },
+  {
+    "id": 23157,
+    "key": "settings_quality_Very High",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Very High",
+    "ru": "Очень высокое",
+    "en": "Very high",
+    "ko": "매우 높음"
+  },
+  {
+    "id": 23158,
+    "key": "settings_quality_Very Low",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Very Low",
+    "ru": "Очень низкое",
+    "en": "Very low",
+    "ko": "매우 낮음"
+  },
+  {
+    "id": 23159,
+    "key": "settings_quality_Ultra",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_quality_Ultra",
+    "ru": "Ультра",
+    "en": "Ultra",
+    "ko": "울트라"
+  },
+  {
+    "id": 23160,
+    "key": "settings_language_Russian",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_language_Russian",
+    "ru": "Русский",
+    "en": "Russian",
+    "ko": "러시아어"
+  },
+  {
+    "id": 23161,
+    "key": "settings_language_English",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_language_English",
+    "ru": "Английский",
+    "en": "English",
+    "ko": "영어"
+  },
+  {
+    "id": 23162,
+    "key": "settings_language_Kazakh",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_language_Kazakh",
+    "ru": "Казахский",
+    "en": "Kazakh",
+    "ko": "카자흐어"
+  },
+  {
+    "id": 23163,
+    "key": "Monstrous_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Monstrous_Tag_Key",
+    "ru": "Чудовищное",
+    "en": "Monstrous",
+    "ko": "괴물 같은"
+  },
+  {
+    "id": 23164,
+    "key": "Resource_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Resource_StakeCategoryKey",
+    "ru": "Ресурс",
+    "en": "Resource",
+    "ko": "자원"
+  },
+  {
+    "id": 23165,
+    "key": "MissionResultFailed_Title_UIText",
+    "context": "UI Localization File",
+    "field": "MissionResultPopupFacade",
+    "detail": "MissionResultFailed_Title_UIText",
+    "ru": "Эпизод провален!",
+    "en": "Episode failed!",
+    "ko": "에피소드 실패!"
+  },
+  {
+    "id": 23166,
+    "key": "MissionResultCompleted_Title_UIText",
+    "context": "UI Localization File",
+    "field": "MissionResultPopupFacade",
+    "detail": "MissionResultCompleted_Title_UIText",
+    "ru": "Эпизод пройден!",
+    "en": "Episode completed!",
+    "ko": "에피소드 완료!"
+  },
+  {
+    "id": 23167,
+    "key": "Reward_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Reward_StakeCategoryKey",
+    "ru": "Ресурс",
+    "en": "Resource",
+    "ko": "자원"
+  },
+  {
+    "id": 23168,
+    "key": "StartNewGameSkipIntro",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "StartNewGameSkipIntro",
+    "ru": "Новая игра (без генерации)",
+    "en": "New game (no generation)",
+    "ko": "새 게임 (인물 생성 생략)"
+  },
+  {
+    "id": 23169,
+    "key": "StartGameSkipIntro",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "StartGameSkipIntro",
+    "ru": "Начать (без генерации)",
+    "en": "Start (no generation)",
+    "ko": "시작 (인물 생성 생략)"
+  },
+  {
+    "id": 23170,
+    "key": "Credits_Title",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Title",
+    "ru": "Игра студии",
+    "en": "A Game By",
+    "ko": "제작사"
+  },
+  {
+    "id": 23171,
+    "key": "Anecdotes_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Anecdotes_TopicKey",
+    "ru": "Анекдоты",
+    "en": "Jokes",
+    "ko": "농담"
+  },
+  {
+    "id": 23172,
+    "key": "ConsequenceName_Tooltip",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConsequenceName_Tooltip",
+    "ru": "Последствия",
+    "en": "Consequences",
+    "ko": "결과"
+  },
+  {
+    "id": 23173,
+    "key": "ConditionsName_Tooltip",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConditionsName_Tooltip",
+    "ru": "Условия",
+    "en": "Conditions",
+    "ko": "조건"
+  },
+  {
+    "id": 23174,
+    "key": "ShowAllMissions_Button",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ShowAllMissions_Button",
+    "ru": "Показать все",
+    "en": "Show all",
+    "ko": "모두 보기"
+  },
+  {
+    "id": 23175,
+    "key": "QuitMainMenu",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitMainMenu",
+    "ru": "Выход в главное меню",
+    "en": "Exit to main menu",
+    "ko": "메인 메뉴로 나가기"
+  },
+  {
+    "id": 23176,
+    "key": "Prosecution_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Prosecution_StakeCategoryKey",
+    "ru": "Закон",
+    "en": "Law",
+    "ko": "법률"
+  },
+  {
+    "id": 23177,
+    "key": "settings_use_long_press",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "settings_use_long_press",
+    "ru": "Нажатие действий с удержанием",
+    "en": "Hold-to-Press in Actions",
+    "ko": "버튼을 계속 눌러 행동 실행하기"
+  },
+  {
+    "id": 23178,
+    "key": "Hint_Yurgen1",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Yurgen1",
+    "ru": "«Покажи мне героя, и я напишу тебе трагедию». — Ф. Скотт Фицджеральд.",
+    "en": "\"Show me a hero, and I'll write you a tragedy.\" — F. Scott Fitzgerald.",
+    "ko": "“내게 영웅을 보여 다오. 그러면 비극을 한 편 써 주지.” — F. 스콧 피츠제럴드"
+  },
+  {
+    "id": 23179,
+    "key": "ReasonHeader",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ReasonHeader",
+    "ru": "Причина:",
+    "en": "Cause:",
+    "ko": "원인:"
+  },
+  {
+    "id": 23180,
+    "key": "PersonalizationWindow.GroupName.Eyeglasses",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.GroupName.Eyeglasses",
+    "ru": "Очки",
+    "en": "Glasses",
+    "ko": "안경"
+  },
+  {
+    "id": 23181,
+    "key": "ConfirmationPopupTitleKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConfirmationPopupTitleKey",
+    "ru": "Выйти в главное меню?",
+    "en": "Quit to Main Menu?",
+    "ko": "메인 메뉴로 나가시겠습니까?"
+  },
+  {
+    "id": 23182,
+    "key": "QuitMainMenuConfirmationDescription",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitMainMenuConfirmationDescription",
+    "ru": "Внимание! При возобновлении игры после выхода вы вернетесь к началу текущего Эпизода.",
+    "en": "Please note: Resuming the game after quitting will return you to the beginning of the current Episode.",
+    "ko": "지금 나가면 다음에 이어 할 때 현재 에피소드의 처음으로 돌아갑니다."
+  },
+  {
+    "id": 23183,
+    "key": "QuitGameConfirmationDescription",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitGameConfirmationDescription",
+    "ru": "Внимание! При возобновлении игры вы вернетесь к началу текущего Эпизода.",
+    "en": "Please note: Resuming the game will return you to the beginning of the current Episode.",
+    "ko": "다음에 이어 할 때는 현재 에피소드의 처음부터 시작합니다."
+  },
+  {
+    "id": 23184,
+    "key": "CancelButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "CancelButton",
+    "ru": "Назад",
+    "en": "Back",
+    "ko": "뒤로 가기"
+  },
+  {
+    "id": 23185,
+    "key": "ConfirmButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConfirmButton",
+    "ru": "Подтвердить",
+    "en": "Confirm",
+    "ko": "확인하기"
+  },
+  {
+    "id": 23186,
+    "key": "InventoryWindow_Category_Weapon",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Weapon",
+    "ru": "Оружие",
+    "en": "Weapon",
+    "ko": "무기"
+  },
+  {
+    "id": 23187,
+    "key": "InventoryWindow_Category_Consumable",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Consumable",
+    "ru": "Расходники",
+    "en": "Consumables",
+    "ko": "소모품"
+  },
+  {
+    "id": 23188,
+    "key": "InventoryWindow_Category_Tools",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Tools",
+    "ru": "Инструменты",
+    "en": "Tools",
+    "ko": "도구"
+  },
+  {
+    "id": 23189,
+    "key": "InventoryWindow_Category_Clothes",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Clothes",
+    "ru": "Аксессуары",
+    "en": "Accessories",
+    "ko": "장신구"
+  },
+  {
+    "id": 23190,
+    "key": "InventoryWindow_Category_Quests",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Quests",
+    "ru": "Задание",
+    "en": "Quest",
+    "ko": "임무"
+  },
+  {
+    "id": 23191,
+    "key": "InventoryWindow_Category_Other",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_Other",
+    "ru": "Прочее",
+    "en": "Other",
+    "ko": "기타"
+  },
+  {
+    "id": 23192,
+    "key": "ClickActionEquipInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "ClickActionEquipInventoryWindowKey",
+    "ru": "Экипировать",
+    "en": "Equip",
+    "ko": "장착하기"
+  },
+  {
+    "id": 23193,
+    "key": "ClickActionDropInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "ClickActionDropInventoryWindowKey",
+    "ru": "Выбросить",
+    "en": "Drop",
+    "ko": "버리기"
+  },
+  {
+    "id": 23194,
+    "key": "ClickActionUseInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "ClickActionUseInventoryWindowKey",
+    "ru": "Использовать",
+    "en": "Use",
+    "ko": "사용하기"
+  },
+  {
+    "id": 23195,
+    "key": "ClickActionUnequipInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "ClickActionUnequipInventoryWindowKey",
+    "ru": "Снять",
+    "en": "Unequip",
+    "ko": "장착 해제"
+  },
+  {
+    "id": 23196,
+    "key": "InventoryWindow_Category_Costume",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "InventoryWindow_Category_Costume",
+    "ru": "Одежда",
+    "en": "Clothes",
+    "ko": "의복"
+  },
+  {
+    "id": 23197,
+    "key": "Traums_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Traums_Tag_Key",
+    "ru": "Вещь Траумов",
+    "en": "Traum's Item",
+    "ko": "트라움 가문의 물품"
+  },
+  {
+    "id": 23198,
+    "key": "Quest_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Quest_Tag_Key",
+    "ru": "Задание",
+    "en": "Quest",
+    "ko": "임무"
+  },
+  {
+    "id": 23199,
+    "key": "MainMenu_Credits",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MainMenu_Credits",
+    "ru": "Титры",
+    "en": "Credits",
+    "ko": "제작진"
+  },
+  {
+    "id": 23200,
+    "key": "TabbedMenu_Archives",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenu_Archives",
+    "ru": "Заметки",
+    "en": "Notes",
+    "ko": "메모"
+  },
+  {
+    "id": 23201,
+    "key": "StakeTooltipModificatorsTitleKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "StakeTooltipModificatorsTitleKey",
+    "ru": "Сейчас влияют:",
+    "en": "Now influenced by:",
+    "ko": "현재 적용 중인 영향 요소:"
+  },
+  {
+    "id": 23202,
+    "key": "TabbedMenu_CharacterWindow_AbilityTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_AbilityTab",
+    "ru": "Аспекты",
+    "en": "Aspects",
+    "ko": "특성"
+  },
+  {
+    "id": 23203,
+    "key": "TabbedMenu_CharacterWindow_StatesTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_StatesTab",
+    "ru": "Состояния",
+    "en": "States",
+    "ko": "상태"
+  },
+  {
+    "id": 23204,
+    "key": "TabbedMenu_CharacterWindow_PrinciplesTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_PrinciplesTab",
+    "ru": "Принципы",
+    "en": "Principles",
+    "ko": "신념"
+  },
+  {
+    "id": 23205,
+    "key": "TabbedMenu_CharacterWindow_TraitsTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_TraitsTab",
+    "ru": "Черты",
+    "en": "Traits",
+    "ko": "기질"
+  },
+  {
+    "id": 23206,
+    "key": "TabbedMenu_CharacterWindow_TalentsTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_TalentsTab",
+    "ru": "Таланты",
+    "en": "Talents",
+    "ko": "재능"
+  },
+  {
+    "id": 23207,
+    "key": "TabbedMenu_CharacterWindow_BenefitsTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_BenefitsTab",
+    "ru": "Ресурсы",
+    "en": "Resources",
+    "ko": "자원"
+  },
+  {
+    "id": 23208,
+    "key": "Asset_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Asset_StakeCategoryPluralKey",
+    "ru": "Активы Заговора",
+    "en": "Conspiracy Assets",
+    "ko": "비밀결사 자산"
+  },
+  {
+    "id": 23209,
+    "key": "Status_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Status_StakeCategoryPluralKey",
+    "ru": "Состояния",
+    "en": "States",
+    "ko": "상태"
+  },
+  {
+    "id": 23210,
+    "key": "Boon_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Boon_StakeCategoryPluralKey",
+    "ru": "Ресурсы",
+    "en": "Resources",
+    "ko": "자원"
+  },
+  {
+    "id": 23211,
+    "key": "Reputation_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Reputation_StakeCategoryPluralKey",
+    "ru": "Репутации",
+    "en": "Reputations",
+    "ko": "명성"
+  },
+  {
+    "id": 23212,
+    "key": "City Event_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "City Event_StakeCategoryPluralKey",
+    "ru": "Городские события",
+    "en": "City events",
+    "ko": "도시 이벤트"
+  },
+  {
+    "id": 23213,
+    "key": "Buff_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Buff_StakeCategoryPluralKey",
+    "ru": "Усиления",
+    "en": "Boosts",
+    "ko": "강화 효과"
+  },
+  {
+    "id": 23214,
+    "key": "Debuff_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Debuff_StakeCategoryPluralKey",
+    "ru": "Слабости",
+    "en": "Weaknesses",
+    "ko": "약점"
+  },
+  {
+    "id": 23215,
+    "key": "Harm_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Harm_StakeCategoryPluralKey",
+    "ru": "Уроны",
+    "en": "Damages",
+    "ko": "피해량"
+  },
+  {
+    "id": 23216,
+    "key": "Trait_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Trait_StakeCategoryPluralKey",
+    "ru": "Черты",
+    "en": "Traits",
+    "ko": "기질"
+  },
+  {
+    "id": 23217,
+    "key": "Ability_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Ability_StakeCategoryPluralKey",
+    "ru": "Аспекты",
+    "en": "Aspects",
+    "ko": "특성"
+  },
+  {
+    "id": 23218,
+    "key": "Class_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Class_StakeCategoryPluralKey",
+    "ru": "Судьба",
+    "en": "Fate",
+    "ko": "운명"
+  },
+  {
+    "id": 23219,
+    "key": "Talent_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Talent_StakeCategoryPluralKey",
+    "ru": "Таланты",
+    "en": "Talents",
+    "ko": "재능"
+  },
+  {
+    "id": 23220,
+    "key": "Weakness_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Weakness_StakeCategoryPluralKey",
+    "ru": "Слабости",
+    "en": "Weaknesses",
+    "ko": "약점"
+  },
+  {
+    "id": 23221,
+    "key": "Moves_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Moves_StakeCategoryPluralKey",
+    "ru": "Приемы",
+    "en": "Techniques",
+    "ko": "요령"
+  },
+  {
+    "id": 23222,
+    "key": "Career_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Career_StakeCategoryPluralKey",
+    "ru": "Карьера",
+    "en": "Career",
+    "ko": "경력"
+  },
+  {
+    "id": 23223,
+    "key": "Origin_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Origin_StakeCategoryPluralKey",
+    "ru": "Происхождение",
+    "en": "Origin",
+    "ko": "출신"
+  },
+  {
+    "id": 23224,
+    "key": "Object_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Object_StakeCategoryPluralKey",
+    "ru": "Статусы",
+    "en": "Statuses",
+    "ko": "상태"
+  },
+  {
+    "id": 23225,
+    "key": "Mission_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Mission_StakeCategoryPluralKey",
+    "ru": "Ставки",
+    "en": "Stakes",
+    "ko": "쟁점"
+  },
+  {
+    "id": 23226,
+    "key": "Location_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Location_StakeCategoryPluralKey",
+    "ru": "Локации",
+    "en": "Locations",
+    "ko": "장소"
+  },
+  {
+    "id": 23227,
+    "key": "Appearance_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Appearance_StakeCategoryPluralKey",
+    "ru": "Внешность",
+    "en": "Appearance",
+    "ko": "외모"
+  },
+  {
+    "id": 23228,
+    "key": "Principle_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Principle_StakeCategoryPluralKey",
+    "ru": "Принципы",
+    "en": "Principles",
+    "ko": "신념"
+  },
+  {
+    "id": 23229,
+    "key": "Gender_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Gender_StakeCategoryPluralKey",
+    "ru": "Пол",
+    "en": "Gender",
+    "ko": "성별"
+  },
+  {
+    "id": 23230,
+    "key": "Cover_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Cover_StakeCategoryPluralKey",
+    "ru": "Прикрытия",
+    "en": "Cover",
+    "ko": "위장 신분"
+  },
+  {
+    "id": 23231,
+    "key": "Resource_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Resource_StakeCategoryPluralKey",
+    "ru": "Ресурсы",
+    "en": "Resources",
+    "ko": "자원"
+  },
+  {
+    "id": 23232,
+    "key": "Reward_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Reward_StakeCategoryPluralKey",
+    "ru": "Ресурсы",
+    "en": "Resources",
+    "ko": "자원"
+  },
+  {
+    "id": 23233,
+    "key": "Prosecution_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Prosecution_StakeCategoryPluralKey",
+    "ru": "Закон",
+    "en": "Law",
+    "ko": "법률"
+  },
+  {
+    "id": 23234,
+    "key": "PersonalizationWindow.ColorGeneral",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "PersonalizationWindow.ColorGeneral",
+    "ru": "Цвет",
+    "en": "Color",
+    "ko": "색깔"
+  },
+  {
+    "id": 23235,
+    "key": "Archive_EmptyTextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Archive_EmptyTextKey",
+    "ru": "Заметок еще нет.",
+    "en": "No Notes yet...",
+    "ko": "아직 메모가 없습니다."
+  },
+  {
+    "id": 23236,
+    "key": "MissionWindow_FoundNotesKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_MissionsWindow",
+    "detail": "MissionWindow_FoundNotesKey",
+    "ru": "Полученные заметки",
+    "en": "Received Notes",
+    "ko": "입수한 메모"
+  },
+  {
+    "id": 23237,
+    "key": "Wealth_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Wealth_StakeCategoryKey",
+    "ru": "Достаток",
+    "en": "Wealth",
+    "ko": "자산"
+  },
+  {
+    "id": 23238,
+    "key": "Wealth_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Wealth_StakeCategoryPluralKey",
+    "ru": "Достаток",
+    "en": "Wealth",
+    "ko": "자산"
+  },
+  {
+    "id": 23239,
+    "key": "LoadoutWindow_TakeHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_TakeHint",
+    "ru": "Взять",
+    "en": "Take",
+    "ko": "가져가기"
+  },
+  {
+    "id": 23240,
+    "key": "LoadoutWindow_EquipHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_EquipHint",
+    "ru": "Экипировать",
+    "en": "Equip",
+    "ko": "장착하기"
+  },
+  {
+    "id": 23241,
+    "key": "LoadoutWindow_UnequipHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_UnequipHint",
+    "ru": "Снять",
+    "en": "Take off",
+    "ko": "장착 해제"
+  },
+  {
+    "id": 23242,
+    "key": "LoadoutWindow_ReturnHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_ReturnHint",
+    "ru": "Вернуть в чемодан",
+    "en": "Transfer to Suitcase",
+    "ko": "여행 가방에 넣기"
+  },
+  {
+    "id": 23243,
+    "key": "StartMissionKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "StartMissionKey",
+    "ru": "Начать Эпизод",
+    "en": "Start Episode",
+    "ko": "에피소드 시작"
+  },
+  {
+    "id": 23244,
+    "key": "ClueTextKey",
+    "context": "UI Localization File",
+    "field": "Consequence",
+    "detail": "ClueTextKey",
+    "ru": "Улика",
+    "en": "Clue",
+    "ko": "단서"
+  },
+  {
+    "id": 23245,
+    "key": "HideAllTutorialsButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "HideAllTutorialsButton",
+    "ru": "Отключить Обучение",
+    "en": "Disable Tutorial",
+    "ko": "튜토리얼 비활성화"
+  },
+  {
+    "id": 23246,
+    "key": "DiscordFinishScreenTextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "DiscordFinishScreenTextKey",
+    "ru": "Присоединяйтесь к нашему Дискорд-серверу!",
+    "en": "Join our Discord server!",
+    "ko": "디스코드 서버에 가입하세요!"
+  },
+  {
+    "id": 23247,
+    "key": "SteamFinishScreenTextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SteamFinishScreenTextKey",
+    "ru": "Добавить игру в вишлист!",
+    "en": "Add game to wishlist!",
+    "ko": "위시리스트에 추가하기"
+  },
+  {
+    "id": 23248,
+    "key": "Recipes_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Recipes_TopicKey",
+    "ru": "Рецепты",
+    "en": "Recipes",
+    "ko": "제작법"
+  },
+  {
+    "id": 23249,
+    "key": "NoteTextKey",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "NoteTextKey",
+    "ru": "Заметка",
+    "en": "Note",
+    "ko": "메모"
+  },
+  {
+    "id": 23250,
+    "key": "SwitchTutorialsButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "SwitchTutorialsButton",
+    "ru": "Включить обучение",
+    "en": "Enable Tutorial",
+    "ko": "튜토리얼 활성화"
+  },
+  {
+    "id": 23251,
+    "key": "Ultimate_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Ultimate_StakeCategoryKey",
+    "ru": "Надлом",
+    "en": "Fracture",
+    "ko": "균열"
+  },
+  {
+    "id": 23252,
+    "key": "Ultimate_StakeCategoryPluralKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Ultimate_StakeCategoryPluralKey",
+    "ru": "Надломы",
+    "en": "Fractures",
+    "ko": "균열"
+  },
+  {
+    "id": 23253,
+    "key": "TabbedMenu_CharacterWindow_ResourcesTab",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_CharacterWindow_ResourcesTab",
+    "ru": "Ресурсы",
+    "en": "Resources",
+    "ko": "자원"
+  },
+  {
+    "id": 23254,
+    "key": "Once_Per_Used",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "Once_Per_Used",
+    "ru": "Использовано!",
+    "en": "Used!",
+    "ko": "사용됨!"
+  },
+  {
+    "id": 23255,
+    "key": "Once_Per_Day_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "Once_Per_Day_Key",
+    "ru": "Раз в день!",
+    "en": "Once per day!",
+    "ko": "하루 한 번!"
+  },
+  {
+    "id": 23256,
+    "key": "Once_Per_Game_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "Once_Per_Game_Key",
+    "ru": "Один раз за игру!",
+    "en": "Once per game!",
+    "ko": "게임당 한 번!"
+  },
+  {
+    "id": 23257,
+    "key": "Once_Per_Mission_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "Once_Per_Mission_Key",
+    "ru": "Один раз за эпизод!",
+    "en": "Once per episode!",
+    "ko": "에피소드당 한 번!"
+  },
+  {
+    "id": 23258,
+    "key": "ClickActionReadyForUseInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "ClickActionReadyForUseInventoryWindowKey",
+    "ru": "Приготовить",
+    "en": "Ready",
+    "ko": "준비하기"
+  },
+  {
+    "id": 23259,
+    "key": "ClickActionUnreadyForUseInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "ClickActionUnreadyForUseInventoryWindowKey",
+    "ru": "Убрать",
+    "en": "Put away",
+    "ko": "집어넣기"
+  },
+  {
+    "id": 23260,
+    "key": "LoadoutWindow_ReadyForUseHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_ReadyForUseHint",
+    "ru": "Подготовить",
+    "en": "Prepare",
+    "ko": "준비하기"
+  },
+  {
+    "id": 23261,
+    "key": "LoadoutWindow_UnreadyForUseHint",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "LoadoutWindow_UnreadyForUseHint",
+    "ru": "Отменить готовность",
+    "en": "Unprepare",
+    "ko": "준비 해제"
+  },
+  {
+    "id": 23262,
+    "key": "InventoryWindow_Category_All",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Category_All",
+    "ru": "Все",
+    "en": "All",
+    "ko": "전체"
+  },
+  {
+    "id": 23263,
+    "key": "InventoryWindow_Section_Equipped",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "InventoryWindow_Section_Equipped",
+    "ru": "Экипировано",
+    "en": "Equipped",
+    "ko": "장착됨"
+  },
+  {
+    "id": 23264,
+    "key": "Hint_MrRat",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_MrRat",
+    "ru": "«Цс-цс-цс!» — Господин Крыс",
+    "en": "\"Tss-tss-tss!\" — Mister Rat",
+    "ko": "“쉿, 쉿, 쉿!” — 쥐 선생"
+  },
+  {
+    "id": 23265,
+    "key": "Brocken_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Brocken_TextKey",
+    "ru": "Брокен",
+    "en": "Brocken",
+    "ko": "브로켄"
+  },
+  {
+    "id": 23266,
+    "key": "Capital_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Capital_TextKey",
+    "ru": "Столица",
+    "en": "Capital",
+    "ko": "수도"
+  },
+  {
+    "id": 23267,
+    "key": "ActiveMissionMap_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ActiveMissionMap_TextKey",
+    "ru": "Вы здесь!",
+    "en": "You are here!",
+    "ko": "현재 위치!"
+  },
+  {
+    "id": 23268,
+    "key": "PrologueIntroPopup_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "PrologueIntroPopup_TextKey",
+    "ru": "Добро пожаловать в Пролог!  <br><br>Он станет началом истории вашего заговорщика.  <br><br>Сначала вы разыграете драму жизни и становления вашего героя.  Это будет серия сцен, в которых вы создадите личность персонажа и проживете всю предысторию до того самого дня, когда вступите в Заговор. <br><br> Затем вам предстоит несколько Эпизодов из вашего первого дня в роли заговорщика, где вы сделаете судьбоносные шаги на этом опасном пути.",
+    "en": "Welcome to the Prologue! <br><br>It is the beginning of your Conspirator’s story. <br><br>First, you will play out the drama of your hero’s life and upbringing—a collection of scenes in which you will create your character's personality and live through your entire backstory, leading up to the day you join the Conspiracy. <br><br>Then you will experience several Episodes of your first day as a Conspirator and take fateful steps along that dangerous path.",
+    "ko": "프롤로그에 오신 것을 환영합니다! <br><br>이제 비밀결사원으로서 당신의 이야기가 시작됩니다. <br><br>먼저 주인공의 삶과 성장 과정을 그린 드라마를 경험하게 됩니다. 여러 장면을 거치며 주인공의 인격을 형성하고, 비밀결사에 가담하는 날에 이르기까지의 모든 과거를 직접 살아 보게 될 것입니다. <br><br>그다음에는 비밀결사원으로서 맞이하는 첫날의 여러 에피소드를 경험하며, 이 위험한 길 위에서 운명을 좌우할 중대한 첫걸음을 내딛게 됩니다."
+  },
+  {
+    "id": 23269,
+    "key": "SwitchGamepadStyleButton",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "SwitchGamepadStyleButton",
+    "ru": "Сменить геймпад-схему",
+    "en": "Change the gamepad scheme",
+    "ko": "게임패드 설정 변경"
+  },
+  {
+    "id": 23270,
+    "key": "Mission_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Mission_TopicKey",
+    "ru": "Эпизоды",
+    "en": "Episodes",
+    "ko": "에피소드"
+  },
+  {
+    "id": 23271,
+    "key": "Brocken_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Brocken_TopicKey",
+    "ru": "Брокен",
+    "en": "Brocken",
+    "ko": "브로켄"
+  },
+  {
+    "id": 23272,
+    "key": "Traums_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Traums_TopicKey",
+    "ru": "Траумы",
+    "en": "Traums",
+    "ko": "트라움 가문"
+  },
+  {
+    "id": 23273,
+    "key": "Miscellany_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Miscellany_TopicKey",
+    "ru": "Разное",
+    "en": "Miscellany",
+    "ko": "기타 사항"
+  },
+  {
+    "id": 23274,
+    "key": "Clues_TopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Clues_TopicKey",
+    "ru": "Улики",
+    "en": "Clues",
+    "ko": "단서"
+  },
+  {
+    "id": 23275,
+    "key": "City Life_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "City Life_SubtopicKey",
+    "ru": "Городская жизнь",
+    "en": "City life",
+    "ko": "도시 생활"
+  },
+  {
+    "id": 23276,
+    "key": "Personalities_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Personalities_SubtopicKey",
+    "ru": "Личности",
+    "en": "Personalities",
+    "ko": "인물"
+  },
+  {
+    "id": 23277,
+    "key": "Places_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Places_SubtopicKey",
+    "ru": "Места",
+    "en": "Places",
+    "ko": "장소"
+  },
+  {
+    "id": 23278,
+    "key": "Family_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Family_SubtopicKey",
+    "ru": "Семья",
+    "en": "Family",
+    "ko": "가족"
+  },
+  {
+    "id": 23279,
+    "key": "Plans of Traums_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Plans of Traums_SubtopicKey",
+    "ru": "Планы Траумов",
+    "en": "Traum's Plans",
+    "ko": "트라움 가문의 계획"
+  },
+  {
+    "id": 23280,
+    "key": "Random Facts_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Random Facts_SubtopicKey",
+    "ru": "Случайные факты",
+    "en": "Random facts",
+    "ko": "소소한 사실"
+  },
+  {
+    "id": 23281,
+    "key": "Jokes_SubtopicKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Jokes_SubtopicKey",
+    "ru": "Шутки",
+    "en": "Jokes",
+    "ko": "농담"
+  },
+  {
+    "id": 23282,
+    "key": "TabbedMenuMap_TextKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabbedMenuMap_TextKey",
+    "ru": "Карта",
+    "en": "Map",
+    "ko": "지도"
+  },
+  {
+    "id": 23283,
+    "key": "MissionIntroPopupGoals_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionIntroPopupGoals_TextKey",
+    "ru": "Цели",
+    "en": "Goals",
+    "ko": "목표\n"
+  },
+  {
+    "id": 23284,
+    "key": "MissionIntroPopupEpisode_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MissionIntroPopupEpisode_TextKey",
+    "ru": "Эпизод",
+    "en": "Episode",
+    "ko": "에피소드"
+  },
+  {
+    "id": 23285,
+    "key": "MissionResultCurrent_Title_UIText",
+    "context": "UI Localization File",
+    "field": "MissionResultPopupFacade",
+    "detail": "MissionResultCurrent_Title_UIText",
+    "ru": "Текущий эпизод",
+    "en": "Current episode",
+    "ko": "현재 에피소드"
+  },
+  {
+    "id": 23286,
+    "key": "Background_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Background_StakeCategoryKey",
+    "ru": "Прошлое",
+    "en": "Past",
+    "ko": "과거"
+  },
+  {
+    "id": 23287,
+    "key": "TabbedMenu_Conspiracy_StatusLabel",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_Conspiracy_StatusLabel",
+    "ru": "Статус:",
+    "en": "Status:",
+    "ko": "상태:"
+  },
+  {
+    "id": 23288,
+    "key": "TabbedMenu_Conspiracy_AssignmentLabel",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "TabbedMenu_Conspiracy_AssignmentLabel",
+    "ru": "Текущее поручение:",
+    "en": "Current assignment:",
+    "ko": "현재 할당된 임무:"
+  },
+  {
+    "id": 23289,
+    "key": "ConspiratorStatus_Free",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConspiratorStatus_Free",
+    "ru": "На свободе",
+    "en": "Free",
+    "ko": "자유의 몸"
+  },
+  {
+    "id": 23290,
+    "key": "ConspiratorStatus_Wanted",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConspiratorStatus_Wanted",
+    "ru": "В розыске",
+    "en": "Wanted",
+    "ko": "수배 중"
+  },
+  {
+    "id": 23291,
+    "key": "ConspiratorStatus_Arrested",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ConspiratorStatus_Arrested",
+    "ru": "Арестован",
+    "en": "Arrested",
+    "ko": "체포됨"
+  },
+  {
+    "id": 23292,
+    "key": "Unknown_AssignmentKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Unknown_AssignmentKey",
+    "ru": "???",
+    "en": "???",
+    "ko": "???"
+  },
+  {
+    "id": 23293,
+    "key": "Alcohol_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Alcohol_Tag_Key",
+    "ru": "Алкоголь",
+    "en": "Alcohol",
+    "ko": "술"
+  },
+  {
+    "id": 23294,
+    "key": "MenuSceneSteamButton_TextKey",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "MenuSceneSteamButton_TextKey",
+    "ru": "Добавить в вишлист",
+    "en": "Add to Wishlist",
+    "ko": "위시리스트에 추가"
+  },
+  {
+    "id": 23295,
+    "key": "MenuSceneDiscordButton_TextKey",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "MenuSceneDiscordButton_TextKey",
+    "ru": "Наш дискорд",
+    "en": "Our Discord",
+    "ko": "공식 디스코드"
+  },
+  {
+    "id": 23296,
+    "key": "NPC Universal_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NPC Universal_StakeCategoryKey",
+    "ru": "Статус",
+    "en": "Status",
+    "ko": "상태"
+  },
+  {
+    "id": 23297,
+    "key": "NPC Story_StakeCategoryKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "NPC Story_StakeCategoryKey",
+    "ru": "Особый статус",
+    "en": "Special status",
+    "ko": "특별 상태"
+  },
+  {
+    "id": 23298,
+    "key": "TimeCooldownConditionWaitFor_TextKey",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "TimeCooldownConditionWaitFor_TextKey",
+    "ru": "Подождите",
+    "en": "Wait",
+    "ko": "대기"
+  },
+  {
+    "id": 23299,
+    "key": "Hint_Quote1",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote1",
+    "ru": "«Время людей уже уходит. Сейчас грядет время чудовищ». <br><color=yellow>— Прокаженный",
+    "en": "\"The time of humans is running out. The time of monsters is coming.\" —  Leper",
+    "ko": "“인간의 시대가 저물고 있다. 이제 괴물의 시대가 온다.” — 문둥이"
+  },
+  {
+    "id": 23300,
+    "key": "Hint_Quote2",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote2",
+    "ru": "«Вынь шею из ярма! Пусть ее лучше один раз перережут, чем бесконечно давят». — Амир Пуля",
+    "en": "\"Take your neck out of the yoke! It's better to have it cut once than to have it crushed endlessly.\" — Amir the Bullet",
+    "ko": "“목에서 멍에를 벗어라! 평생 짓눌려 사느니 단칼에 목이 날아가는 편이 낫다.” — 총알 아미르"
+  },
+  {
+    "id": 23301,
+    "key": "Hint_Quote3",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote3",
+    "ru": "«Никогда не доверяйте героям. В жертву своему героизму они готовы принести всё». — Баронесса",
+    "en": "\"Never trust heroes. They're willing to sacrifice everything for their heroism.\" — Baroness",
+    "ko": "“영웅은 절대 믿지 마세요. 제 영웅 행세를 위해서라면 무엇이든 희생할 사람들이니까.” — 남작부인"
+  },
+  {
+    "id": 23302,
+    "key": "Hint_Quote4",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote4",
+    "ru": "«Наше дело безнадежно. Именно поэтому его и стоит делать». — Мертвец",
+    "en": "\"Our cause is hopeless. That's precisely why it's worth doing.\" — The Dead Man",
+    "ko": "“우리 일에는 가망이 없네. 바로 그래서 해 볼 만한 거야.” — 망자"
+  },
+  {
+    "id": 23303,
+    "key": "Hint_Quote5",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote5",
+    "ru": "«В вашем городе зима хоть когда-нибудь заканчивается?» — Приезжий в Брокене",
+    "en": "\"Does winter ever end in your city?\" — A Visitor to Brocken",
+    "ko": "“이 도시에도 겨울이 끝나는 날이 오긴 합니까?” — 브로켄을 찾은 나그네"
+  },
+  {
+    "id": 23304,
+    "key": "Hint_Quote6",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote6",
+    "ru": "«Если власти не способны очистить Город от заговорщиков и прочей мрази — это сделаем мы!» — Общество Бдительных",
+    "en": "\"If the authorities are unable to cleanse the City of conspirators and other scum, we will do it!\" — The Society of Vigilant Ones",
+    "ko": "“당국이 비밀결사 단원들과 잡것들을 이 도시에서 쓸어 내지 못한다면, 우리가 직접 해치우겠다!” — 자경회"
+  },
+  {
+    "id": 23305,
+    "key": "Hint_Quote7",
+    "context": "UI Localization File",
+    "field": "Hint",
+    "detail": "Hint_Quote7",
+    "ru": "«Постановляю: въезд в город Брокен отныне строго по визе, выдаваемой по дозволению Министерства». — Министр внутренних дел Республики",
+    "en": "\"By my decree: entry into the city of Brocken is henceforth allowed only by visa, issued by the Ministry.\" — Minister of the Interior of the Republic",
+    "ko": "“이에 명한다. 이제부터 브로켄 시에 들어가려는 자는 내무부가 발급한 비자를 소지해야 한다.” — 공화국 내무장관"
+  },
+  {
+    "id": 23306,
+    "key": "ByItemCategoryCondition_Key",
+    "context": "UI Localization File",
+    "field": "Conditions",
+    "detail": "ByItemCategoryCondition_Key",
+    "ru": "Предмет",
+    "en": "Item",
+    "ko": "아이템"
+  },
+  {
+    "id": 23307,
+    "key": "MissionDetailsPopup_StartMission",
+    "context": "UI Localization File",
+    "field": "MissionDetailsPopup",
+    "detail": "MissionDetailsPopup_StartMission",
+    "ru": "Начать задание",
+    "en": "Start Episode",
+    "ko": "에피소드 시작"
+  },
+  {
+    "id": 23308,
+    "key": "DefaultPlayerName_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "DefaultPlayerName_TextKey",
+    "ru": "Вы",
+    "en": "You",
+    "ko": "당신"
+  },
+  {
+    "id": 23309,
+    "key": "HeroBodyCustiomizationPopup",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "HeroBodyCustiomizationPopup",
+    "ru": "Тело",
+    "en": "Body",
+    "ko": "신체"
+  },
+  {
+    "id": 23310,
+    "key": "HeroCostumeUpperCustiomizationPopup",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "HeroCostumeUpperCustiomizationPopup",
+    "ru": "Костюм — Верх",
+    "en": "Suit — Top Layer",
+    "ko": "복장 — 상의"
+  },
+  {
+    "id": 23311,
+    "key": "HeroCostumeLowerCustiomizationPopup",
+    "context": "UI Localization File",
+    "field": "PersonalizationWindow",
+    "detail": "HeroCostumeLowerCustiomizationPopup",
+    "ru": "Костюм — Низ",
+    "en": "Suit — Lower Layer",
+    "ko": "복장 — 하의"
+  },
+  {
+    "id": 23312,
+    "key": "BaseStakeCategory",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "BaseStakeCategory",
+    "ru": "Основы",
+    "en": "Foundation",
+    "ko": "기초"
+  },
+  {
+    "id": 23313,
+    "key": "DemoEndScreenDescription_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "DemoEndScreenDescription_TextKey",
+    "ru": "Хотите продолжить историю <male>заговорщика</male><female>заговорщицы</female> по имени <username> <userlastname>, провести <male>его</male><female>ее</female> через все опасности обратно в родной Город и узнать, к чему <male>его</male><female>ее</female> приведут сделанные выборы? <br><br>Тогда обязательно добавьте полную версию игры Agent of Strange в свой список желаемого!",
+    "en": "Would you like to continue the story of conspirator named <username> <userlastname>, lead <male>him</male><female>her</female> through all the dangers back to hometown and find out where <male>his</male><female>her</female> choices will lead? <br><br>Then be sure to add the full version of Agent of Strange to your wishlist!",
+    "ko": "비밀결사원 <username> <userlastname>의 이야기는 여기서 끝나지 않습니다. <male>그</male><female>그녀</female>는 온갖 위험을 헤치고 고향 도시로 돌아갈 수 있을까요? 그동안 내린 선택들이 <male>그</male><female>그녀</female>를 어떤 결말로 이끌지 궁금하신가요?<br><br>이야기를 계속 이어 가고 싶다면 정식판 Agent of Strange를 찜 목록에 추가해 주세요!"
+  },
+  {
+    "id": 23314,
+    "key": "DemoEndScreenTitle_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "DemoEndScreenTitle_TextKey",
+    "ru": "Пролог окончен",
+    "en": "The prologue is over",
+    "ko": "프롤로그가 끝났습니다"
+  },
+  {
+    "id": 23315,
+    "key": "UnlockMissionKey_NoClue",
+    "context": "UI Localization File",
+    "field": "MissionDetailsPopup",
+    "detail": "UnlockMissionKey_NoClue",
+    "ru": "Нет Улики",
+    "en": "Clue Required!",
+    "ko": "단서가 필요합니다!"
+  },
+  {
+    "id": 23316,
+    "key": "InventoryItemEffects_TextKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "InventoryItemEffects_TextKey",
+    "ru": "Эффекты",
+    "en": "Effects",
+    "ko": "효과"
+  },
+  {
+    "id": 23317,
+    "key": "PlayerBusyActionInventoryWindowKey",
+    "context": "UI Localization File",
+    "field": "TabbedMenu_InventoryWindow",
+    "detail": "PlayerBusyActionInventoryWindowKey",
+    "ru": "Игрок занят!",
+    "en": "Player is busy!",
+    "ko": "플레이어가 다른 일을 하고 있습니다!"
+  },
+  {
+    "id": 23318,
+    "key": "TabLocked_TabbedMenu",
+    "context": "UI Localization File",
+    "field": "TabbedMenu",
+    "detail": "TabLocked_TabbedMenu",
+    "ru": "Эта вкладка сейчас недоступна",
+    "en": "This tab is currently unavailable",
+    "ko": "현재 이 탭은 사용할 수 없습니다."
+  },
+  {
+    "id": 23319,
+    "key": "QuitMainMenuConfirmationTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitMainMenuConfirmationTitle",
+    "ru": "Выйти в главное меню?",
+    "en": "Exit to main menu?",
+    "ko": "메인 메뉴로 나가시겠습니까?"
+  },
+  {
+    "id": 23320,
+    "key": "QuitGameConfirmationTitle",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "QuitGameConfirmationTitle",
+    "ru": "Выйти из игры?",
+    "en": "Quit Game?",
+    "ko": "게임을 종료하시겠습니까?"
+  },
+  {
+    "id": 23321,
+    "key": "RewindButton_ConfirmationDesc_Text",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "RewindButton_ConfirmationDesc_Text",
+    "ru": "Внимание! Вы вернетесь к началу пройденного эпизода. Ваши текущие результаты будут потеряны.",
+    "en": "Please Note: You will return to the beginning of the episode. Your current progress will be lost.",
+    "ko": "주의: 에피소드의 처음 부분으로 돌아갑니다. 현재 진행 상황은 모두 초기화됩니다."
+  },
+  {
+    "id": 23322,
+    "key": "RewindButton_ConfirmationName_Text",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "RewindButton_ConfirmationName_Text",
+    "ru": "Перезапустить эпизод?",
+    "en": "Rewind Episode?",
+    "ko": "에피소드를 다시 시작하시겠습니까?"
+  },
+  {
+    "id": 23323,
+    "key": "FeedbackButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "FeedbackButton",
+    "ru": "Дать обратную связь",
+    "en": "Give Feedback",
+    "ko": "피드백 주기"
+  },
+  {
+    "id": 23324,
+    "key": "FeedbackButtonMainMenu",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "FeedbackButtonMainMenu",
+    "ru": "Обратная связь",
+    "en": "Feedback",
+    "ko": "의견 보내기"
+  },
+  {
+    "id": 23325,
+    "key": "QuitGameMainMenuConfirmationDescription",
+    "context": "UI Localization File",
+    "field": "MainMenu",
+    "detail": "QuitGameMainMenuConfirmationDescription",
+    "ru": "Город Брокен будет ждать вас обратно...",
+    "en": "The city of Brocken will be waiting for you...",
+    "ko": "브로켄 시는 당신이 돌아오기를 기다릴 겁니다…"
+  },
+  {
+    "id": 23326,
+    "key": "WarehouseTitleKey",
+    "context": "UI Localization File",
+    "field": "LoadoutWindow",
+    "detail": "WarehouseTitleKey",
+    "ru": "Чемодан",
+    "en": "Suitcase",
+    "ko": "여행 가방"
+  },
+  {
+    "id": 23327,
+    "key": "Male_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Male_Tag_Key",
+    "ru": "Мужское",
+    "en": "Male",
+    "ko": "남성"
+  },
+  {
+    "id": 23328,
+    "key": "Female_Tag_Key",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Female_Tag_Key",
+    "ru": "Женское",
+    "en": "Female",
+    "ko": "여성"
+  },
+  {
+    "id": 23329,
+    "key": "MainSettingsResetPendingChanges_TitleKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MainSettingsResetPendingChanges_TitleKey",
+    "ru": "Выйти без применения настроек?",
+    "en": "Quit without applying settings?",
+    "ko": "설정을 그대로 두고 나갈까요?"
+  },
+  {
+    "id": 23330,
+    "key": "MainSettingsResetPendingChanges_DescriptionKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "MainSettingsResetPendingChanges_DescriptionKey",
+    "ru": "Есть неприменённые изменения. Отменить их и вернуться в меню?",
+    "en": "You have unapplied settings. Discard them and return to the menu?",
+    "ko": "적용하지 않은 설정이 있습니다. 변경 사항을 버리고 메뉴로 돌아갈까요?"
+  },
+  {
+    "id": 23331,
+    "key": "settings_apply",
+    "context": "UI Localization File",
+    "field": "SettingsWindowTab",
+    "detail": "settings_apply",
+    "ru": "Применить",
+    "en": "Apply",
+    "ko": "적용하기"
+  },
+  {
+    "id": 23332,
+    "key": "UnknownGamepadMetPopupDescription_TextKey",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "UnknownGamepadMetPopupDescription_TextKey",
+    "ru": "Ваш геймпад не опознан нашей системой. Пожалуйста, выберите одну из следующих геймпад-схем (вы всегда можете изменить её позже из меню паузы).",
+    "en": "Your gamepad is not recognized by our system. Please select one of the following gamepad schemes (you can always change it later from the pause menu).",
+    "ko": "게임패드를 인식하지 못했습니다. 아래에서 버튼 배치를 선택하세요. 나중에 일시 정지 메뉴에서 바꿀 수 있습니다."
+  },
+  {
+    "id": 23333,
+    "key": "Credits_Director",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Director",
+    "ru": "Руководитель проекта",
+    "en": "Game Director",
+    "ko": "게임 디렉터"
+  },
+  {
+    "id": 23334,
+    "key": "Credits_Director_Name",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Director_Name",
+    "ru": "Дмитрий Иванов",
+    "en": "Dmitry Ivanov",
+    "ko": "Dmitry Ivanov"
+  },
+  {
+    "id": 23335,
+    "key": "Credits_Gamedesign",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Gamedesign",
+    "ru": "Гейм-дизайн",
+    "en": "Game Design",
+    "ko": "게임 디자인"
+  },
+  {
+    "id": 23336,
+    "key": "Credits_Gamedesign_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Gamedesign_Names",
+    "ru": "Дмитрий Иванов<br> Юрий Багрий<br> Федор Трубин<br>",
+    "en": "Dmitry Ivanov<br> Yuri Bagriy<br> Fedor Trubin<br>",
+    "ko": "Dmitry Ivanov<br> Yuri Bagriy<br> Fedor Trubin<br>"
+  },
+  {
+    "id": 23337,
+    "key": "Credits_Code",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Code",
+    "ru": "Программирование",
+    "en": "Programming",
+    "ko": "프로그래밍"
+  },
+  {
+    "id": 23338,
+    "key": "Credits_Code_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Code_Names",
+    "ru": "Илья Спицын<br> Кирилл Доровских<br>",
+    "en": "Ilya Spytsin<br> Kirill Dorovskikh<br>",
+    "ko": "Ilya Spytsin<br> Kirill Dorovskikh<br>"
+  },
+  {
+    "id": 23339,
+    "key": "Credits_Art",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Art",
+    "ru": "Арт",
+    "en": "Art",
+    "ko": "아트"
+  },
+  {
+    "id": 23340,
+    "key": "Credits_Art_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Art_Names",
+    "ru": "Анастасия Зайкина<br> Оля Золотарева<br> Любовь Ельчанинова<br> Юлия Крафт<br>",
+    "en": "Anastasia Zaykina<br> Olya Zolotareva<br> Lyubov Elchaninova<br> Yulia Kraft<br>",
+    "ko": "Anastasia Zaykina<br> Olya Zolotareva<br> Lyubov Elchaninova<br> Yulia Kraft<br>"
+  },
+  {
+    "id": 23341,
+    "key": "Credits_Sound",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Sound",
+    "ru": "Звук и музыка",
+    "en": "Sound and Music",
+    "ko": "음향 및 음악"
+  },
+  {
+    "id": 23342,
+    "key": "Credits_Sound_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Sound_Names",
+    "ru": "Федор Трубин<br> Андрей Ведерников<br>",
+    "en": "Fedor Trubin<br> Andrey Vedernikov<br>",
+    "ko": "Fedor Trubin<br> Andrey Vedernikov<br>"
+  },
+  {
+    "id": 23343,
+    "key": "Credits_Assembly",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Assembly",
+    "ru": "Дизайн и сборка эпизодов",
+    "en": "Episodes Design and Assembly",
+    "ko": "에피소드 기획 및 구성"
+  },
+  {
+    "id": 23344,
+    "key": "Credits_Assembly_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Assembly_Names",
+    "ru": "Федор Трубин<br> Оля Золотарева<br> Андрей Ведерников<br> Дмитрий Иванов<br> Кирилл Доровских<br>",
+    "en": "Fedor Trubin<br> Olya Zolotaryova<br> Andrey Vedernikov<br> Dmitry Ivanov<br> Kirill Dorovskikh<br>",
+    "ko": "Fedor Trubin<br> Olya Zolotaryova<br> Andrey Vedernikov<br> Dmitry Ivanov<br> Kirill Dorovskikh<br>"
+  },
+  {
+    "id": 23345,
+    "key": "Credits_AdditionalWriting",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalWriting",
+    "ru": "Дополнительные тексты",
+    "en": "Additional Writing",
+    "ko": "추가 텍스트"
+  },
+  {
+    "id": 23346,
+    "key": "Credits_AdditionalWriting_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalWriting_Names",
+    "ru": "Тимур Ермаков",
+    "en": "Timur Ermakov",
+    "ko": "Timur Ermakov"
+  },
+  {
+    "id": 23347,
+    "key": "Credits_AdditionalArt",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalArt",
+    "ru": "Дополнительный арт и графика",
+    "en": "Additional Art and Graphics",
+    "ko": "추가 아트 및 그래픽"
+  },
+  {
+    "id": 23348,
+    "key": "Credits_AdditionalArt_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalArt_Names",
+    "ru": "Марина Беляева<br>Маргарита Сафронова<br>  София Усова<br>  Елена Поборцева<br>  Анастасия Шевелева<br>  Дарья Майорова<br>   Анастасия Зольнова<br>   Екатерина Марочкина<br>    Дарья Прохорова<br>   Арина Вторушина<br>    Наталья Шапкина<br>  Валерия Реброва<br> ",
+    "en": "Marina Belyaeva<br> Margarita Safronova<br>  Sofia Usova<br>  Anastasia Sheveleva<br>  Darya Mayorova<br>  Anastasia Zolnova<br>  Ekaterina Marochkina<br>  Darya Prokhorova<br>  Elena Pobortseva<br>  Arina Vtorushina<br>  Natalya Shapkina<br>  Valeriya Rebrova<br>  ",
+    "ko": "Marina Belyaeva<br> Margarita Safronova<br>  Sofia Usova<br>  Anastasia Sheveleva<br>  Darya Mayorova<br>  Anastasia Zolnova<br>  Ekaterina Marochkina<br>  Darya Prokhorova<br>  Elena Pobortseva<br>  Arina Vtorushina<br>  Natalya Shapkina<br>  Valeriya Rebrova<br>  "
+  },
+  {
+    "id": 23349,
+    "key": "Credits_AdditionalDesign",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalDesign",
+    "ru": "Отдельный вклад",
+    "en": "Contributors",
+    "ko": "기여해 주신 분들"
+  },
+  {
+    "id": 23350,
+    "key": "Credits_AdditionalDesign_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_AdditionalDesign_Names",
+    "ru": "Валентина Яркова<br> Павел Лесных<br> Зоя Егорова<br> Екатерина Алиткина<br> Данила Рапота<br> Артем Нестеренко<br> Ильхам Тюменев<br> Родион Сергеев<br>",
+    "en": "Valentina Yarkova<br> Pavel Lesnykh<br> Zoia Egorova<br> Ekaterina Alitkina<br> Danila Rapota<br> Artyom Nesterenko<br> Ilkham Tyumenev<br> Rodion Sergeev<br>",
+    "ko": "Valentina Yarkova<br> Pavel Lesnykh<br> Zoia Egorova<br> Ekaterina Alitkina<br> Danila Rapota<br> Artyom Nesterenko<br> Ilkham Tyumenev<br> Rodion Sergeev<br>"
+  },
+  {
+    "id": 23351,
+    "key": "Credits_Thanks",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Thanks",
+    "ru": "Благодарности",
+    "en": "Special Thanks",
+    "ko": "특별히 감사드리는 분들"
+  },
+  {
+    "id": 23352,
+    "key": "Credits_Thanks_Names",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "Credits_Thanks_Names",
+    "ru": "Ксения Смирнова<br> Сергей \"Чип\" Аксенов<br> Эдуардо Апарисио<br>  Яцек Гловацкий<br> Денис Муравлянский<br> Андрей Салик<br> Вера Петровская<br> Ярослава Доровских<br> Ульяна Дегтярева<br> Андрей Крылатов<br> Антон Баганов<br> Юрий Некрасов<br>",
+    "en": "Eduardo Aparicio<br> Jacek Glowacki<br> Denis Muravlyansky<br> Andrey Salik<br> Ksenia Smirnova<br> Sergey 'Chip' Aksenov<br> Vera Petrovskaya<br> Yaroslava Dorovskikh<br> Ulyana Degtyareva<br> Andrey Krylatov<br> Anton Baganov<br> Yuri Nekrasov<br>",
+    "ko": "Eduardo Aparicio<br> Jacek Glowacki<br> Denis Muravlyansky<br> Andrey Salik<br> Ksenia Smirnova<br> Sergey 'Chip' Aksenov<br> Vera Petrovskaya<br> Yaroslava Dorovskikh<br> Ulyana Degtyareva<br> Andrey Krylatov<br> Anton Baganov<br> Yuri Nekrasov<br>"
+  },
+  {
+    "id": 23353,
+    "key": "Interact_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Interact_InputControlName",
+    "ru": "Взаимодействовать",
+    "en": "Interact",
+    "ko": "상호작용하기"
+  },
+  {
+    "id": 23354,
+    "key": "Alternative Interact_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Alternative Interact_InputControlName",
+    "ru": "Альтерантивное взаимодействие",
+    "en": "Alternative Interact",
+    "ko": "대체 상호작용"
+  },
+  {
+    "id": 23355,
+    "key": "Dynamic Action_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Dynamic Action_InputControlName",
+    "ru": "Динамическое действие",
+    "en": "Dynamic Action",
+    "ko": "상황에 따른 동적 행동"
+  },
+  {
+    "id": 23356,
+    "key": "ConspiracyWindow_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "ConspiracyWindow_InputControlName",
+    "ru": "Конспирация (окно)",
+    "en": "Conpisracy (Window)",
+    "ko": "비밀결사 창"
+  },
+  {
+    "id": 23357,
+    "key": "Sprint_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Sprint_InputControlName",
+    "ru": "Бег",
+    "en": "Sprint",
+    "ko": "달리기"
+  },
+  {
+    "id": 23358,
+    "key": "Inventory_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Inventory_InputControlName",
+    "ru": "Инвентарь (окно)",
+    "en": "Inventory (Window)",
+    "ko": "인벤토리 창"
+  },
+  {
+    "id": 23359,
+    "key": "Cancel_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Cancel_InputControlName",
+    "ru": "Отмена",
+    "en": "Cancel",
+    "ko": "취소하기"
+  },
+  {
+    "id": 23360,
+    "key": "Resume_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Resume_InputControlName",
+    "ru": "Продолжить",
+    "en": "Resume",
+    "ko": "계속하기"
+  },
+  {
+    "id": 23361,
+    "key": "Menu_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Menu_InputControlName",
+    "ru": "Меню паузы",
+    "en": "Pause Menu",
+    "ko": "일시 정지 메뉴"
+  },
+  {
+    "id": 23362,
+    "key": "Character Window_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Character Window_InputControlName",
+    "ru": "Персонаж (окно)",
+    "en": "Character (Window)",
+    "ko": "캐릭터 창"
+  },
+  {
+    "id": 23363,
+    "key": "Highlight Objects_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Highlight Objects_InputControlName",
+    "ru": "Подсветить интерактивные объекты",
+    "en": "Highlight Interactive Objects",
+    "ko": "상호작용 가능한 오브젝트 강조 표시"
+  },
+  {
+    "id": 23364,
+    "key": "Archives Window_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Archives Window_InputControlName",
+    "ru": "Архив (окно)",
+    "en": "Archive (Window)",
+    "ko": "아카이브 창"
+  },
+  {
+    "id": 23365,
+    "key": "SwitchToToolbar_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "SwitchToToolbar_InputControlName",
+    "ru": "Переключиться на тулбар (геймпад)",
+    "en": "Switch To Toolbar (Gamepad)",
+    "ko": "도구 모음으로 전환 (게임패드 컨트롤)"
+  },
+  {
+    "id": 23366,
+    "key": "MissionsWindow_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "MissionsWindow_InputControlName",
+    "ru": "Эпизоды (окно)",
+    "en": "Episodes (window)",
+    "ko": "에피소드 창"
+  },
+  {
+    "id": 23367,
+    "key": "Tabbed Menu Sub Category Navigation Right_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Tabbed Menu Sub Category Navigation Right_InputControlName",
+    "ru": "Следующая подкатегория",
+    "en": "Next Subcategory",
+    "ko": "다음 하위 항목"
+  },
+  {
+    "id": 23368,
+    "key": "Tabbed Menu Sub Category Navigation Left_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Tabbed Menu Sub Category Navigation Left_InputControlName",
+    "ru": "Предыдущая категория",
+    "en": "Previous Subcategory",
+    "ko": "이전 하위 항목"
+  },
+  {
+    "id": 23369,
+    "key": "Tabbed Menu Category Navigation Right_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Tabbed Menu Category Navigation Right_InputControlName",
+    "ru": "Следующая категория",
+    "en": "Next Category",
+    "ko": "다음 분류"
+  },
+  {
+    "id": 23370,
+    "key": "Tabbed Menu Category Navigation Left_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Tabbed Menu Category Navigation Left_InputControlName",
+    "ru": "Предыдущая категория",
+    "en": "Previous Category",
+    "ko": "이전 분류"
+  },
+  {
+    "id": 23371,
+    "key": "ControlsWindow_TitleKey",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "ControlsWindow_TitleKey",
+    "ru": "Управление",
+    "en": "Controls",
+    "ko": "조작 설정"
+  },
+  {
+    "id": 23372,
+    "key": "ShowControlSchemeButton",
+    "context": "UI Localization File",
+    "field": "Default",
+    "detail": "ShowControlSchemeButton",
+    "ru": "Показать управление",
+    "en": "Show Controls",
+    "ko": "조작법 보기"
+  },
+  {
+    "id": 23373,
+    "key": "Menu Navigation_InputControlName",
+    "context": "UI Localization File",
+    "field": "ControlsWindow",
+    "detail": "Menu Navigation_InputControlName",
+    "ru": "Навигация в меню",
+    "en": "Menu Navigation",
+    "ko": "메뉴 이동"
+  },
+  {
+    "id": 23698,
+    "key": "TMP.Loading.Intro",
+    "context": "첫 로딩 화면",
+    "field": "",
+    "detail": "",
+    "ru": "",
+    "en": "Plotting the Conspiracy...",
+    "ko": "비밀결사를 모의하는 중..."
+  },
+  {
+    "id": 23699,
+    "key": "@screen:91baf3473841550a27941fd377422d7fab9334f9b836fed3a7b47c5b26cafca2",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Голос Выскользнуть в сторону",
+    "en": "",
+    "ko": "(목소리) 옆으로 빠져나가기"
+  },
+  {
+    "id": 23700,
+    "key": "@screen:6c1f9c0200665cd14b1d7acaa911977594943a13679083e8e80c1fef785594dc",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Рассудок Мальчика",
+    "en": "",
+    "ko": "소년의 이성"
+  },
+  {
+    "id": 23701,
+    "key": "@screen:c50c0e7fe201b8af657d90191fb3f2ed334fd99a4aab7a341d6c52bcb8ad6e05",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Рассудок",
+    "en": "",
+    "ko": "이성"
+  },
+  {
+    "id": 23702,
+    "key": "@screen:58176fa485afc60f3ecf81e91b369e9bfbe336e98925d2ffd2fda62c1ee18676",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Ментальное состояние Мальчика.",
+    "en": "",
+    "ko": "소년의 정신 상태"
+  },
+  {
+    "id": 23703,
+    "key": "@screen:b1d92fa758a4d804f9b0eb70e156d72c9dce03d1722c2da292c5fc0c47830741",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Ментальное состояние Мальчика.\nПоказывает, насколько он близок к помешательству.",
+    "en": "",
+    "ko": "소년의 정신 상태.\n이성을 잃기까지 얼마나 남았는지 나타냅니다."
+  },
+  {
+    "id": 23704,
+    "key": "@screen:807fab7907ebe47d64bd37d716cba76b76fe7f0e16b32655b93c93b5ec6d089f",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Нехорошая квартира",
+    "en": "",
+    "ko": "불길한 아파트"
+  },
+  {
+    "id": 23705,
+    "key": "@screen:c090e8aab3dbe713892e7cbf0ae078f42c5a89bc449fb2d6db4693cc870c5daf",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "<color=green>История:</color>\r\nНехорошая квартира",
+    "en": "",
+    "ko": "<color=green>이야기:</color>\r\n불길한 아파트"
+  },
+  {
+    "id": 23706,
+    "key": "@screen:a33f3f09f4a5be079a32c7c6f4dd2a65445aace5b1a8d351c4b8e8d460250635",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "РИСК",
+    "en": "",
+    "ko": "위험도"
+  },
+  {
+    "id": 23707,
+    "key": "@screen:ef92087b0988b39e7e618f7dc0334cc8c1b4940fdce294efa054d995e4a6f0d5",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "секретные секреты траумов",
+    "en": "",
+    "ko": "트라움 가문의 극비"
+  },
+  {
+    "id": 23708,
+    "key": "@screen:c4403cba7e2e08f8d9b8c9f8ba521384036e1dba908889c704160521feac8bfc",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Флаг Аляски создал тринадцатилетний мальчик.",
+    "en": "",
+    "ko": "알래스카의 주기를 디자인한 건 열세 살 소년이었다."
+  },
+  {
+    "id": 23709,
+    "key": "@screen:7aedb52bc4e70d406191eba297bf74740160f22496b281cb43a1cc2b38408f64",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Вступили ли вы в заговор?",
+    "en": "",
+    "ko": "비밀결사에 가담하셨습니까?"
+  },
+  {
+    "id": 23710,
+    "key": "@screen:f57f0e1a0e45ffd931edd3185ddbf3600188649a557e8f7f8969bf73983b993a",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Вербовка",
+    "en": "",
+    "ko": "포섭"
+  },
+  {
+    "id": 23711,
+    "key": "@screen:9d16229d71e4c4e871042d0569621c3159f70ec6deebbd1dab07800ab1ef562b",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "Столица",
+    "en": "",
+    "ko": "수도"
+  },
+  {
+    "id": 23712,
+    "key": "@screen:5854be2e7729e48ec4af969768a62dec01ddfd5a449e0db0d39721a91e81e8fe",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "завершить",
+    "en": "",
+    "ko": "마치기"
+  },
+  {
+    "id": 23713,
+    "key": "@screen:956dae75fc1118e9e8365304430410ed66c56f907c3b0e9733dd1d602c896d95",
+    "context": "플레이 화면에서 확인한 추가 문구",
+    "field": "",
+    "detail": "",
+    "ru": "ГОСТЬ ИЗ НИОТКУДА",
+    "en": "",
+    "ko": "어디에서도 오지 않은 손님"
+  }
+]
